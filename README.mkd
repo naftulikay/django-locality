@@ -1,0 +1,22 @@
+#django-locality#
+
+`django-locality` is a pretty simple library geared at making things easy when it comes to countries and territories. It comes with a bunch of nice initial data, so you'll be able to immediately get up to speed tying objects to countries and territories.
+
+For example, you can list all countries like so:
+
+    locality.models.Country.objects.all()
+
+You can also find all territories by country like so:
+
+	for country in locality.models.Country.objects.all():
+		country.territories
+
+You can create your own models around countries and territories:
+
+    class Address(models.Model):
+        country = models.ForeignKey('locality.models.Country')
+		territory = models.ForeignKey('locality.models.Territory')
+
+Eventually, this Django module will include nice little helpers like form widgets and template tags, but for now, it simply makes it easy for you to work with countries and territories.
+
+It's ridiculously simple, yet somehow doesn't exist in the Django-sphere. Please report all bugs to the Git Issue-Tracker, and enjoy the library. 

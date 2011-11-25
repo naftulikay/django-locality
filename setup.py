@@ -10,6 +10,7 @@ setup(
 	packages = find_packages('src'),
 	package_dir = {'': 'src'},
 	install_requires = [
+		'Django>=1.3.0',
 		'setuptools'
 	],
 )
