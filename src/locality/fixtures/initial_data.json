@@ -4,7 +4,7 @@
 		"fields": {
 			"iso2": "AF",
 			"iso3": "AFG",
-			"name": "Afghanistan",
+			"name": "Afghanistan"
 		}
 	},
 	{	"model": "locality.country",
@@ -12,7 +12,7 @@
 		"fields": {
 			"iso2": "AX",
 			"iso3": "ALA",
-			"name": "Åland",
+			"name": "Åland"
 		}
 	},
 	{	"model": "locality.country",
@@ -20,7 +20,7 @@
 		"fields": {
 			"iso2": "AL",
 			"iso3": "ALB",
-			"name": "Albania",
+			"name": "Albania"
 		}
 	},
 	{	"model": "locality.country",
@@ -28,7 +28,7 @@
 		"fields": {
 			"iso2": "DZ",
 			"iso3": "DZA",
-			"name": "Algeria",
+			"name": "Algeria"
 		}
 	},
 	{	"model": "locality.country",
@@ -36,7 +36,7 @@
 		"fields": {
 			"iso2": "AS",
 			"iso3": "ASM",
-			"name": "American Samoa",
+			"name": "American Samoa"
 		}
 	},
 	{	"model": "locality.country",
@@ -44,7 +44,7 @@
 		"fields": {
 			"iso2": "AD",
 			"iso3": "AND",
-			"name": "Andorra",
+			"name": "Andorra"
 		}
 	},
 	{	"model": "locality.country",
@@ -52,7 +52,7 @@
 		"fields": {
 			"iso2": "AO",
 			"iso3": "AGO",
-			"name": "Angola",
+			"name": "Angola"
 		}
 	},
 	{	"model": "locality.country",
@@ -60,7 +60,7 @@
 		"fields": {
 			"iso2": "AI",
 			"iso3": "AIA",
-			"name": "Anguilla",
+			"name": "Anguilla"
 		}
 	},
 	{	"model": "locality.country",
@@ -68,7 +68,7 @@
 		"fields": {
 			"iso2": "AQ",
 			"iso3": "ATA",
-			"name": "Antarctica",
+			"name": "Antarctica"
 		}
 	},
 	{	"model": "locality.country",
@@ -76,7 +76,7 @@
 		"fields": {
 			"iso2": "AG",
 			"iso3": "ATG",
-			"name": "Antigua and Barbuda",
+			"name": "Antigua and Barbuda"
 		}
 	},
 	{	"model": "locality.country",
@@ -84,7 +84,7 @@
 		"fields": {
 			"iso2": "AR",
 			"iso3": "ARG",
-			"name": "Argentina",
+			"name": "Argentina"
 		}
 	},
 	{	"model": "locality.country",
@@ -92,7 +92,7 @@
 		"fields": {
 			"iso2": "AM",
 			"iso3": "ARM",
-			"name": "Armenia",
+			"name": "Armenia"
 		}
 	},
 	{	"model": "locality.country",
@@ -100,7 +100,7 @@
 		"fields": {
 			"iso2": "AW",
 			"iso3": "ABW",
-			"name": "Aruba",
+			"name": "Aruba"
 		}
 	},
 	{	"model": "locality.country",
@@ -108,7 +108,7 @@
 		"fields": {
 			"iso2": "AU",
 			"iso3": "AUS",
-			"name": "Australia",
+			"name": "Australia"
 		}
 	},
 	{	"model": "locality.country",
@@ -116,7 +116,7 @@
 		"fields": {
 			"iso2": "AT",
 			"iso3": "AUT",
-			"name": "Austria",
+			"name": "Austria"
 		}
 	},
 	{	"model": "locality.country",
@@ -124,7 +124,7 @@
 		"fields": {
 			"iso2": "AZ",
 			"iso3": "AZE",
-			"name": "Azerbaijan",
+			"name": "Azerbaijan"
 		}
 	},
 	{	"model": "locality.country",
@@ -132,7 +132,7 @@
 		"fields": {
 			"iso2": "BS",
 			"iso3": "BHS",
-			"name": "Bahamas",
+			"name": "Bahamas"
 		}
 	},
 	{	"model": "locality.country",
@@ -140,7 +140,7 @@
 		"fields": {
 			"iso2": "BH",
 			"iso3": "BHR",
-			"name": "Bahrain",
+			"name": "Bahrain"
 		}
 	},
 	{	"model": "locality.country",
@@ -148,7 +148,7 @@
 		"fields": {
 			"iso2": "BD",
 			"iso3": "BGD",
-			"name": "Bangladesh",
+			"name": "Bangladesh"
 		}
 	},
 	{	"model": "locality.country",
@@ -156,7 +156,7 @@
 		"fields": {
 			"iso2": "BB",
 			"iso3": "BRB",
-			"name": "Barbados",
+			"name": "Barbados"
 		}
 	},
 	{	"model": "locality.country",
@@ -164,7 +164,7 @@
 		"fields": {
 			"iso2": "BY",
 			"iso3": "BLR",
-			"name": "Belarus",
+			"name": "Belarus"
 		}
 	},
 	{	"model": "locality.country",
@@ -172,7 +172,7 @@
 		"fields": {
 			"iso2": "BE",
 			"iso3": "BEL",
-			"name": "Belgium",
+			"name": "Belgium"
 		}
 	},
 	{	"model": "locality.country",
@@ -180,7 +180,7 @@
 		"fields": {
 			"iso2": "BZ",
 			"iso3": "BLZ",
-			"name": "Belize",
+			"name": "Belize"
 		}
 	},
 	{	"model": "locality.country",
@@ -188,7 +188,7 @@
 		"fields": {
 			"iso2": "BJ",
 			"iso3": "BEN",
-			"name": "Benin",
+			"name": "Benin"
 		}
 	},
 	{	"model": "locality.country",
@@ -196,7 +196,7 @@
 		"fields": {
 			"iso2": "BM",
 			"iso3": "BMU",
-			"name": "Bermuda",
+			"name": "Bermuda"
 		}
 	},
 	{	"model": "locality.country",
@@ -204,7 +204,7 @@
 		"fields": {
 			"iso2": "BT",
 			"iso3": "BTN",
-			"name": "Bhutan",
+			"name": "Bhutan"
 		}
 	},
 	{	"model": "locality.country",
@@ -212,7 +212,7 @@
 		"fields": {
 			"iso2": "BO",
 			"iso3": "BOL",
-			"name": "Bolivia",
+			"name": "Bolivia"
 		}
 	},
 	{	"model": "locality.country",
@@ -220,7 +220,7 @@
 		"fields": {
 			"iso2": "BQ",
 			"iso3": "BES",
-			"name": "Bonaire, Sint Eustatiusand Saba",
+			"name": "Bonaire, Sint Eustatiusand Saba"
 		}
 	},
 	{	"model": "locality.country",
@@ -228,7 +228,7 @@
 		"fields": {
 			"iso2": "BA",
 			"iso3": "BIH",
-			"name": "Bosnia and Herzegovina",
+			"name": "Bosnia and Herzegovina"
 		}
 	},
 	{	"model": "locality.country",
@@ -236,7 +236,7 @@
 		"fields": {
 			"iso2": "BW",
 			"iso3": "BWA",
-			"name": "Botswana",
+			"name": "Botswana"
 		}
 	},
 	{	"model": "locality.country",
@@ -244,7 +244,7 @@
 		"fields": {
 			"iso2": "BV",
 			"iso3": "BVT",
-			"name": "Bouvet Island",
+			"name": "Bouvet Island"
 		}
 	},
 	{	"model": "locality.country",
@@ -252,7 +252,7 @@
 		"fields": {
 			"iso2": "BR",
 			"iso3": "BRA",
-			"name": "Brazil",
+			"name": "Brazil"
 		}
 	},
 	{	"model": "locality.country",
@@ -260,7 +260,7 @@
 		"fields": {
 			"iso2": "IO",
 			"iso3": "IOT",
-			"name": "British Indian OceanTerritory",
+			"name": "British Indian OceanTerritory"
 		}
 	},
 	{	"model": "locality.country",
@@ -268,7 +268,7 @@
 		"fields": {
 			"iso2": "BN",
 			"iso3": "BRN",
-			"name": "Brunei Darussalam",
+			"name": "Brunei Darussalam"
 		}
 	},
 	{	"model": "locality.country",
@@ -276,7 +276,7 @@
 		"fields": {
 			"iso2": "BG",
 			"iso3": "BGR",
-			"name": "Bulgaria",
+			"name": "Bulgaria"
 		}
 	},
 	{	"model": "locality.country",
@@ -284,7 +284,7 @@
 		"fields": {
 			"iso2": "BF",
 			"iso3": "BFA",
-			"name": "Burkina Faso",
+			"name": "Burkina Faso"
 		}
 	},
 	{	"model": "locality.country",
@@ -292,7 +292,7 @@
 		"fields": {
 			"iso2": "BI",
 			"iso3": "BDI",
-			"name": "Burundi",
+			"name": "Burundi"
 		}
 	},
 	{	"model": "locality.country",
@@ -300,7 +300,7 @@
 		"fields": {
 			"iso2": "KH",
 			"iso3": "KHM",
-			"name": "Cambodia",
+			"name": "Cambodia"
 		}
 	},
 	{	"model": "locality.country",
@@ -308,7 +308,7 @@
 		"fields": {
 			"iso2": "CM",
 			"iso3": "CMR",
-			"name": "Cameroon",
+			"name": "Cameroon"
 		}
 	},
 	{	"model": "locality.country",
@@ -316,7 +316,7 @@
 		"fields": {
 			"iso2": "CA",
 			"iso3": "CAN",
-			"name": "Canada",
+			"name": "Canada"
 		}
 	},
 	{	"model": "locality.country",
@@ -324,7 +324,7 @@
 		"fields": {
 			"iso2": "CV",
 			"iso3": "CPV",
-			"name": "Cape Verde",
+			"name": "Cape Verde"
 		}
 	},
 	{	"model": "locality.country",
@@ -332,7 +332,7 @@
 		"fields": {
 			"iso2": "KY",
 			"iso3": "CYM",
-			"name": "Cayman Islands",
+			"name": "Cayman Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -340,7 +340,7 @@
 		"fields": {
 			"iso2": "CF",
 			"iso3": "CAF",
-			"name": "Central African Republic",
+			"name": "Central African Republic"
 		}
 	},
 	{	"model": "locality.country",
@@ -348,7 +348,7 @@
 		"fields": {
 			"iso2": "TD",
 			"iso3": "TCD",
-			"name": "Chad",
+			"name": "Chad"
 		}
 	},
 	{	"model": "locality.country",
@@ -356,7 +356,7 @@
 		"fields": {
 			"iso2": "CL",
 			"iso3": "CHL",
-			"name": "Chile",
+			"name": "Chile"
 		}
 	},
 	{	"model": "locality.country",
@@ -364,7 +364,7 @@
 		"fields": {
 			"iso2": "CN",
 			"iso3": "CHN",
-			"name": "China",
+			"name": "China"
 		}
 	},
 	{	"model": "locality.country",
@@ -372,7 +372,7 @@
 		"fields": {
 			"iso2": "CX",
 			"iso3": "CXR",
-			"name": "Christmas Island",
+			"name": "Christmas Island"
 		}
 	},
 	{	"model": "locality.country",
@@ -380,7 +380,7 @@
 		"fields": {
 			"iso2": "CC",
 			"iso3": "CCK",
-			"name": "Cocos (Keeling) Islands",
+			"name": "Cocos (Keeling) Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -388,7 +388,7 @@
 		"fields": {
 			"iso2": "CO",
 			"iso3": "COL",
-			"name": "Colombia",
+			"name": "Colombia"
 		}
 	},
 	{	"model": "locality.country",
@@ -396,7 +396,7 @@
 		"fields": {
 			"iso2": "KM",
 			"iso3": "COM",
-			"name": "Comoros",
+			"name": "Comoros"
 		}
 	},
 	{	"model": "locality.country",
@@ -404,7 +404,7 @@
 		"fields": {
 			"iso2": "CG",
 			"iso3": "COG",
-			"name": "Congo (Brazzaville)",
+			"name": "Congo (Brazzaville)"
 		}
 	},
 	{	"model": "locality.country",
@@ -412,7 +412,7 @@
 		"fields": {
 			"iso2": "CD",
 			"iso3": "COD",
-			"name": "Congo (Kinshasa)",
+			"name": "Congo (Kinshasa)"
 		}
 	},
 	{	"model": "locality.country",
@@ -420,7 +420,7 @@
 		"fields": {
 			"iso2": "CK",
 			"iso3": "COK",
-			"name": "Cook Islands",
+			"name": "Cook Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -428,7 +428,7 @@
 		"fields": {
 			"iso2": "CR",
 			"iso3": "CRI",
-			"name": "Costa Rica",
+			"name": "Costa Rica"
 		}
 	},
 	{	"model": "locality.country",
@@ -436,7 +436,7 @@
 		"fields": {
 			"iso2": "CI",
 			"iso3": "CIV",
-			"name": "Côte d'Ivoire",
+			"name": "Côte d'Ivoire"
 		}
 	},
 	{	"model": "locality.country",
@@ -444,7 +444,7 @@
 		"fields": {
 			"iso2": "HR",
 			"iso3": "HRV",
-			"name": "Croatia",
+			"name": "Croatia"
 		}
 	},
 	{	"model": "locality.country",
@@ -452,7 +452,7 @@
 		"fields": {
 			"iso2": "CU",
 			"iso3": "CUB",
-			"name": "Cuba",
+			"name": "Cuba"
 		}
 	},
 	{	"model": "locality.country",
@@ -460,7 +460,7 @@
 		"fields": {
 			"iso2": "CW",
 			"iso3": "CUW",
-			"name": "Curaçao",
+			"name": "Curaçao"
 		}
 	},
 	{	"model": "locality.country",
@@ -468,7 +468,7 @@
 		"fields": {
 			"iso2": "CY",
 			"iso3": "CYP",
-			"name": "Cyprus",
+			"name": "Cyprus"
 		}
 	},
 	{	"model": "locality.country",
@@ -476,7 +476,7 @@
 		"fields": {
 			"iso2": "CZ",
 			"iso3": "CZE",
-			"name": "Czech Republic",
+			"name": "Czech Republic"
 		}
 	},
 	{	"model": "locality.country",
@@ -484,7 +484,7 @@
 		"fields": {
 			"iso2": "DK",
 			"iso3": "DNK",
-			"name": "Denmark",
+			"name": "Denmark"
 		}
 	},
 	{	"model": "locality.country",
@@ -492,7 +492,7 @@
 		"fields": {
 			"iso2": "DJ",
 			"iso3": "DJI",
-			"name": "Djibouti",
+			"name": "Djibouti"
 		}
 	},
 	{	"model": "locality.country",
@@ -500,7 +500,7 @@
 		"fields": {
 			"iso2": "DM",
 			"iso3": "DMA",
-			"name": "Dominica",
+			"name": "Dominica"
 		}
 	},
 	{	"model": "locality.country",
@@ -508,7 +508,7 @@
 		"fields": {
 			"iso2": "DO",
 			"iso3": "DOM",
-			"name": "Dominican Republic",
+			"name": "Dominican Republic"
 		}
 	},
 	{	"model": "locality.country",
@@ -516,7 +516,7 @@
 		"fields": {
 			"iso2": "EC",
 			"iso3": "ECU",
-			"name": "Ecuador",
+			"name": "Ecuador"
 		}
 	},
 	{	"model": "locality.country",
@@ -524,7 +524,7 @@
 		"fields": {
 			"iso2": "EG",
 			"iso3": "EGY",
-			"name": "Egypt",
+			"name": "Egypt"
 		}
 	},
 	{	"model": "locality.country",
@@ -532,7 +532,7 @@
 		"fields": {
 			"iso2": "SV",
 			"iso3": "SLV",
-			"name": "El Salvador",
+			"name": "El Salvador"
 		}
 	},
 	{	"model": "locality.country",
@@ -540,7 +540,7 @@
 		"fields": {
 			"iso2": "GQ",
 			"iso3": "GNQ",
-			"name": "Equatorial Guinea",
+			"name": "Equatorial Guinea"
 		}
 	},
 	{	"model": "locality.country",
@@ -548,7 +548,7 @@
 		"fields": {
 			"iso2": "ER",
 			"iso3": "ERI",
-			"name": "Eritrea",
+			"name": "Eritrea"
 		}
 	},
 	{	"model": "locality.country",
@@ -556,7 +556,7 @@
 		"fields": {
 			"iso2": "EE",
 			"iso3": "EST",
-			"name": "Estonia",
+			"name": "Estonia"
 		}
 	},
 	{	"model": "locality.country",
@@ -564,7 +564,7 @@
 		"fields": {
 			"iso2": "ET",
 			"iso3": "ETH",
-			"name": "Ethiopia",
+			"name": "Ethiopia"
 		}
 	},
 	{	"model": "locality.country",
@@ -572,7 +572,7 @@
 		"fields": {
 			"iso2": "FK",
 			"iso3": "FLK",
-			"name": "Falkland Islands",
+			"name": "Falkland Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -580,7 +580,7 @@
 		"fields": {
 			"iso2": "FO",
 			"iso3": "FRO",
-			"name": "Faroe Islands",
+			"name": "Faroe Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -588,7 +588,7 @@
 		"fields": {
 			"iso2": "FJ",
 			"iso3": "FJI",
-			"name": "Fiji",
+			"name": "Fiji"
 		}
 	},
 	{	"model": "locality.country",
@@ -596,7 +596,7 @@
 		"fields": {
 			"iso2": "FI",
 			"iso3": "FIN",
-			"name": "Finland",
+			"name": "Finland"
 		}
 	},
 	{	"model": "locality.country",
@@ -604,7 +604,7 @@
 		"fields": {
 			"iso2": "FR",
 			"iso3": "FRA",
-			"name": "France",
+			"name": "France"
 		}
 	},
 	{	"model": "locality.country",
@@ -612,7 +612,7 @@
 		"fields": {
 			"iso2": "GF",
 			"iso3": "GUF",
-			"name": "French Guiana",
+			"name": "French Guiana"
 		}
 	},
 	{	"model": "locality.country",
@@ -620,7 +620,7 @@
 		"fields": {
 			"iso2": "PF",
 			"iso3": "PYF",
-			"name": "French Polynesia",
+			"name": "French Polynesia"
 		}
 	},
 	{	"model": "locality.country",
@@ -628,7 +628,7 @@
 		"fields": {
 			"iso2": "TF",
 			"iso3": "ATF",
-			"name": "French Southern Lands",
+			"name": "French Southern Lands"
 		}
 	},
 	{	"model": "locality.country",
@@ -636,7 +636,7 @@
 		"fields": {
 			"iso2": "GA",
 			"iso3": "GAB",
-			"name": "Gabon",
+			"name": "Gabon"
 		}
 	},
 	{	"model": "locality.country",
@@ -644,7 +644,7 @@
 		"fields": {
 			"iso2": "GM",
 			"iso3": "GMB",
-			"name": "Gambia",
+			"name": "Gambia"
 		}
 	},
 	{	"model": "locality.country",
@@ -652,7 +652,7 @@
 		"fields": {
 			"iso2": "GE",
 			"iso3": "GEO",
-			"name": "Georgia",
+			"name": "Georgia"
 		}
 	},
 	{	"model": "locality.country",
@@ -660,7 +660,7 @@
 		"fields": {
 			"iso2": "DE",
 			"iso3": "DEU",
-			"name": "Germany",
+			"name": "Germany"
 		}
 	},
 	{	"model": "locality.country",
@@ -668,7 +668,7 @@
 		"fields": {
 			"iso2": "GH",
 			"iso3": "GHA",
-			"name": "Ghana",
+			"name": "Ghana"
 		}
 	},
 	{	"model": "locality.country",
@@ -676,7 +676,7 @@
 		"fields": {
 			"iso2": "GI",
 			"iso3": "GIB",
-			"name": "Gibraltar",
+			"name": "Gibraltar"
 		}
 	},
 	{	"model": "locality.country",
@@ -684,7 +684,7 @@
 		"fields": {
 			"iso2": "GR",
 			"iso3": "GRC",
-			"name": "Greece",
+			"name": "Greece"
 		}
 	},
 	{	"model": "locality.country",
@@ -692,7 +692,7 @@
 		"fields": {
 			"iso2": "GL",
 			"iso3": "GRL",
-			"name": "Greenland",
+			"name": "Greenland"
 		}
 	},
 	{	"model": "locality.country",
@@ -700,7 +700,7 @@
 		"fields": {
 			"iso2": "GD",
 			"iso3": "GRD",
-			"name": "Grenada",
+			"name": "Grenada"
 		}
 	},
 	{	"model": "locality.country",
@@ -708,7 +708,7 @@
 		"fields": {
 			"iso2": "GP",
 			"iso3": "GLP",
-			"name": "Guadeloupe",
+			"name": "Guadeloupe"
 		}
 	},
 	{	"model": "locality.country",
@@ -716,7 +716,7 @@
 		"fields": {
 			"iso2": "GU",
 			"iso3": "GUM",
-			"name": "Guam",
+			"name": "Guam"
 		}
 	},
 	{	"model": "locality.country",
@@ -724,7 +724,7 @@
 		"fields": {
 			"iso2": "GT",
 			"iso3": "GTM",
-			"name": "Guatemala",
+			"name": "Guatemala"
 		}
 	},
 	{	"model": "locality.country",
@@ -732,7 +732,7 @@
 		"fields": {
 			"iso2": "GG",
 			"iso3": "GGY",
-			"name": "Guernsey",
+			"name": "Guernsey"
 		}
 	},
 	{	"model": "locality.country",
@@ -740,7 +740,7 @@
 		"fields": {
 			"iso2": "GN",
 			"iso3": "GIN",
-			"name": "Guinea",
+			"name": "Guinea"
 		}
 	},
 	{	"model": "locality.country",
@@ -748,7 +748,7 @@
 		"fields": {
 			"iso2": "GW",
 			"iso3": "GNB",
-			"name": "Guinea-Bissau",
+			"name": "Guinea-Bissau"
 		}
 	},
 	{	"model": "locality.country",
@@ -756,7 +756,7 @@
 		"fields": {
 			"iso2": "GY",
 			"iso3": "GUY",
-			"name": "Guyana",
+			"name": "Guyana"
 		}
 	},
 	{	"model": "locality.country",
@@ -764,7 +764,7 @@
 		"fields": {
 			"iso2": "HT",
 			"iso3": "HTI",
-			"name": "Haiti",
+			"name": "Haiti"
 		}
 	},
 	{	"model": "locality.country",
@@ -772,7 +772,7 @@
 		"fields": {
 			"iso2": "HM",
 			"iso3": "HMD",
-			"name": "Heard and McDonald Islands",
+			"name": "Heard and McDonald Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -780,7 +780,7 @@
 		"fields": {
 			"iso2": "HN",
 			"iso3": "HND",
-			"name": "Honduras",
+			"name": "Honduras"
 		}
 	},
 	{	"model": "locality.country",
@@ -788,7 +788,7 @@
 		"fields": {
 			"iso2": "HK",
 			"iso3": "HKG",
-			"name": "Hong Kong",
+			"name": "Hong Kong"
 		}
 	},
 	{	"model": "locality.country",
@@ -796,7 +796,7 @@
 		"fields": {
 			"iso2": "HU",
 			"iso3": "HUN",
-			"name": "Hungary",
+			"name": "Hungary"
 		}
 	},
 	{	"model": "locality.country",
@@ -804,7 +804,7 @@
 		"fields": {
 			"iso2": "IS",
 			"iso3": "ISL",
-			"name": "Iceland",
+			"name": "Iceland"
 		}
 	},
 	{	"model": "locality.country",
@@ -812,7 +812,7 @@
 		"fields": {
 			"iso2": "IN",
 			"iso3": "IND",
-			"name": "India",
+			"name": "India"
 		}
 	},
 	{	"model": "locality.country",
@@ -820,7 +820,7 @@
 		"fields": {
 			"iso2": "ID",
 			"iso3": "IDN",
-			"name": "Indonesia",
+			"name": "Indonesia"
 		}
 	},
 	{	"model": "locality.country",
@@ -828,7 +828,7 @@
 		"fields": {
 			"iso2": "IR",
 			"iso3": "IRN",
-			"name": "Iran",
+			"name": "Iran"
 		}
 	},
 	{	"model": "locality.country",
@@ -836,7 +836,7 @@
 		"fields": {
 			"iso2": "IQ",
 			"iso3": "IRQ",
-			"name": "Iraq",
+			"name": "Iraq"
 		}
 	},
 	{	"model": "locality.country",
@@ -844,7 +844,7 @@
 		"fields": {
 			"iso2": "IE",
 			"iso3": "IRL",
-			"name": "Ireland",
+			"name": "Ireland"
 		}
 	},
 	{	"model": "locality.country",
@@ -852,7 +852,7 @@
 		"fields": {
 			"iso2": "IM",
 			"iso3": "IMN",
-			"name": "Isle of Man",
+			"name": "Isle of Man"
 		}
 	},
 	{	"model": "locality.country",
@@ -860,7 +860,7 @@
 		"fields": {
 			"iso2": "IL",
 			"iso3": "ISR",
-			"name": "Israel",
+			"name": "Israel"
 		}
 	},
 	{	"model": "locality.country",
@@ -868,7 +868,7 @@
 		"fields": {
 			"iso2": "IT",
 			"iso3": "ITA",
-			"name": "Italy",
+			"name": "Italy"
 		}
 	},
 	{	"model": "locality.country",
@@ -876,7 +876,7 @@
 		"fields": {
 			"iso2": "JM",
 			"iso3": "JAM",
-			"name": "Jamaica",
+			"name": "Jamaica"
 		}
 	},
 	{	"model": "locality.country",
@@ -884,7 +884,7 @@
 		"fields": {
 			"iso2": "JP",
 			"iso3": "JPN",
-			"name": "Japan",
+			"name": "Japan"
 		}
 	},
 	{	"model": "locality.country",
@@ -892,7 +892,7 @@
 		"fields": {
 			"iso2": "JE",
 			"iso3": "JEY",
-			"name": "Jersey",
+			"name": "Jersey"
 		}
 	},
 	{	"model": "locality.country",
@@ -900,7 +900,7 @@
 		"fields": {
 			"iso2": "JO",
 			"iso3": "JOR",
-			"name": "Jordan",
+			"name": "Jordan"
 		}
 	},
 	{	"model": "locality.country",
@@ -908,7 +908,7 @@
 		"fields": {
 			"iso2": "KZ",
 			"iso3": "KAZ",
-			"name": "Kazakhstan",
+			"name": "Kazakhstan"
 		}
 	},
 	{	"model": "locality.country",
@@ -916,7 +916,7 @@
 		"fields": {
 			"iso2": "KE",
 			"iso3": "KEN",
-			"name": "Kenya",
+			"name": "Kenya"
 		}
 	},
 	{	"model": "locality.country",
@@ -924,7 +924,7 @@
 		"fields": {
 			"iso2": "KI",
 			"iso3": "KIR",
-			"name": "Kiribati",
+			"name": "Kiribati"
 		}
 	},
 	{	"model": "locality.country",
@@ -932,7 +932,7 @@
 		"fields": {
 			"iso2": "KP",
 			"iso3": "PRK",
-			"name": "Korea, North",
+			"name": "Korea, North"
 		}
 	},
 	{	"model": "locality.country",
@@ -940,7 +940,7 @@
 		"fields": {
 			"iso2": "KR",
 			"iso3": "KOR",
-			"name": "Korea, South",
+			"name": "Korea, South"
 		}
 	},
 	{	"model": "locality.country",
@@ -948,7 +948,7 @@
 		"fields": {
 			"iso2": "KW",
 			"iso3": "KWT",
-			"name": "Kuwait",
+			"name": "Kuwait"
 		}
 	},
 	{	"model": "locality.country",
@@ -956,7 +956,7 @@
 		"fields": {
 			"iso2": "KG",
 			"iso3": "KGZ",
-			"name": "Kyrgyzstan",
+			"name": "Kyrgyzstan"
 		}
 	},
 	{	"model": "locality.country",
@@ -964,7 +964,7 @@
 		"fields": {
 			"iso2": "LA",
 			"iso3": "LAO",
-			"name": "Laos",
+			"name": "Laos"
 		}
 	},
 	{	"model": "locality.country",
@@ -972,7 +972,7 @@
 		"fields": {
 			"iso2": "LV",
 			"iso3": "LVA",
-			"name": "Latvia",
+			"name": "Latvia"
 		}
 	},
 	{	"model": "locality.country",
@@ -980,7 +980,7 @@
 		"fields": {
 			"iso2": "LB",
 			"iso3": "LBN",
-			"name": "Lebanon",
+			"name": "Lebanon"
 		}
 	},
 	{	"model": "locality.country",
@@ -988,7 +988,7 @@
 		"fields": {
 			"iso2": "LS",
 			"iso3": "LSO",
-			"name": "Lesotho",
+			"name": "Lesotho"
 		}
 	},
 	{	"model": "locality.country",
@@ -996,7 +996,7 @@
 		"fields": {
 			"iso2": "LR",
 			"iso3": "LBR",
-			"name": "Liberia",
+			"name": "Liberia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1004,7 +1004,7 @@
 		"fields": {
 			"iso2": "LY",
 			"iso3": "LBY",
-			"name": "Libya",
+			"name": "Libya"
 		}
 	},
 	{	"model": "locality.country",
@@ -1012,7 +1012,7 @@
 		"fields": {
 			"iso2": "LI",
 			"iso3": "LIE",
-			"name": "Liechtenstein",
+			"name": "Liechtenstein"
 		}
 	},
 	{	"model": "locality.country",
@@ -1020,7 +1020,7 @@
 		"fields": {
 			"iso2": "LT",
 			"iso3": "LTU",
-			"name": "Lithuania",
+			"name": "Lithuania"
 		}
 	},
 	{	"model": "locality.country",
@@ -1028,7 +1028,7 @@
 		"fields": {
 			"iso2": "LU",
 			"iso3": "LUX",
-			"name": "Luxembourg",
+			"name": "Luxembourg"
 		}
 	},
 	{	"model": "locality.country",
@@ -1036,7 +1036,7 @@
 		"fields": {
 			"iso2": "MO",
 			"iso3": "MAC",
-			"name": "Macau",
+			"name": "Macau"
 		}
 	},
 	{	"model": "locality.country",
@@ -1044,7 +1044,7 @@
 		"fields": {
 			"iso2": "MK",
 			"iso3": "MKD",
-			"name": "Macedonia",
+			"name": "Macedonia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1052,7 +1052,7 @@
 		"fields": {
 			"iso2": "MG",
 			"iso3": "MDG",
-			"name": "Madagascar",
+			"name": "Madagascar"
 		}
 	},
 	{	"model": "locality.country",
@@ -1060,7 +1060,7 @@
 		"fields": {
 			"iso2": "MW",
 			"iso3": "MWI",
-			"name": "Malawi",
+			"name": "Malawi"
 		}
 	},
 	{	"model": "locality.country",
@@ -1068,7 +1068,7 @@
 		"fields": {
 			"iso2": "MY",
 			"iso3": "MYS",
-			"name": "Malaysia",
+			"name": "Malaysia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1076,7 +1076,7 @@
 		"fields": {
 			"iso2": "MV",
 			"iso3": "MDV",
-			"name": "Maldives",
+			"name": "Maldives"
 		}
 	},
 	{	"model": "locality.country",
@@ -1084,7 +1084,7 @@
 		"fields": {
 			"iso2": "ML",
 			"iso3": "MLI",
-			"name": "Mali",
+			"name": "Mali"
 		}
 	},
 	{	"model": "locality.country",
@@ -1092,7 +1092,7 @@
 		"fields": {
 			"iso2": "MT",
 			"iso3": "MLT",
-			"name": "Malta",
+			"name": "Malta"
 		}
 	},
 	{	"model": "locality.country",
@@ -1100,7 +1100,7 @@
 		"fields": {
 			"iso2": "MH",
 			"iso3": "MHL",
-			"name": "Marshall Islands",
+			"name": "Marshall Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1108,7 +1108,7 @@
 		"fields": {
 			"iso2": "MQ",
 			"iso3": "MTQ",
-			"name": "Martinique",
+			"name": "Martinique"
 		}
 	},
 	{	"model": "locality.country",
@@ -1116,7 +1116,7 @@
 		"fields": {
 			"iso2": "MR",
 			"iso3": "MRT",
-			"name": "Mauritania",
+			"name": "Mauritania"
 		}
 	},
 	{	"model": "locality.country",
@@ -1124,7 +1124,7 @@
 		"fields": {
 			"iso2": "MU",
 			"iso3": "MUS",
-			"name": "Mauritius",
+			"name": "Mauritius"
 		}
 	},
 	{	"model": "locality.country",
@@ -1132,7 +1132,7 @@
 		"fields": {
 			"iso2": "YT",
 			"iso3": "MYT",
-			"name": "Mayotte",
+			"name": "Mayotte"
 		}
 	},
 	{	"model": "locality.country",
@@ -1140,7 +1140,7 @@
 		"fields": {
 			"iso2": "MX",
 			"iso3": "MEX",
-			"name": "Mexico",
+			"name": "Mexico"
 		}
 	},
 	{	"model": "locality.country",
@@ -1148,7 +1148,7 @@
 		"fields": {
 			"iso2": "FM",
 			"iso3": "FSM",
-			"name": "Micronesia",
+			"name": "Micronesia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1156,7 +1156,7 @@
 		"fields": {
 			"iso2": "MD",
 			"iso3": "MDA",
-			"name": "Moldova",
+			"name": "Moldova"
 		}
 	},
 	{	"model": "locality.country",
@@ -1164,7 +1164,7 @@
 		"fields": {
 			"iso2": "MC",
 			"iso3": "MCO",
-			"name": "Monaco",
+			"name": "Monaco"
 		}
 	},
 	{	"model": "locality.country",
@@ -1172,7 +1172,7 @@
 		"fields": {
 			"iso2": "MN",
 			"iso3": "MNG",
-			"name": "Mongolia",
+			"name": "Mongolia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1180,7 +1180,7 @@
 		"fields": {
 			"iso2": "ME",
 			"iso3": "MNE",
-			"name": "Montenegro",
+			"name": "Montenegro"
 		}
 	},
 	{	"model": "locality.country",
@@ -1188,7 +1188,7 @@
 		"fields": {
 			"iso2": "MS",
 			"iso3": "MSR",
-			"name": "Montserrat",
+			"name": "Montserrat"
 		}
 	},
 	{	"model": "locality.country",
@@ -1196,7 +1196,7 @@
 		"fields": {
 			"iso2": "MA",
 			"iso3": "MAR",
-			"name": "Morocco",
+			"name": "Morocco"
 		}
 	},
 	{	"model": "locality.country",
@@ -1204,7 +1204,7 @@
 		"fields": {
 			"iso2": "MZ",
 			"iso3": "MOZ",
-			"name": "Mozambique",
+			"name": "Mozambique"
 		}
 	},
 	{	"model": "locality.country",
@@ -1212,7 +1212,7 @@
 		"fields": {
 			"iso2": "MM",
 			"iso3": "MMR",
-			"name": "Myanmar",
+			"name": "Myanmar"
 		}
 	},
 	{	"model": "locality.country",
@@ -1220,7 +1220,7 @@
 		"fields": {
 			"iso2": "NA",
 			"iso3": "NAM",
-			"name": "Namibia",
+			"name": "Namibia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1228,7 +1228,7 @@
 		"fields": {
 			"iso2": "NR",
 			"iso3": "NRU",
-			"name": "Nauru",
+			"name": "Nauru"
 		}
 	},
 	{	"model": "locality.country",
@@ -1236,7 +1236,7 @@
 		"fields": {
 			"iso2": "NP",
 			"iso3": "NPL",
-			"name": "Nepal",
+			"name": "Nepal"
 		}
 	},
 	{	"model": "locality.country",
@@ -1244,7 +1244,7 @@
 		"fields": {
 			"iso2": "NL",
 			"iso3": "NLD",
-			"name": "Netherlands",
+			"name": "Netherlands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1252,7 +1252,7 @@
 		"fields": {
 			"iso2": "NC",
 			"iso3": "NCL",
-			"name": "New Caledonia",
+			"name": "New Caledonia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1260,7 +1260,7 @@
 		"fields": {
 			"iso2": "NZ",
 			"iso3": "NZL",
-			"name": "New Zealand",
+			"name": "New Zealand"
 		}
 	},
 	{	"model": "locality.country",
@@ -1268,7 +1268,7 @@
 		"fields": {
 			"iso2": "NI",
 			"iso3": "NIC",
-			"name": "Nicaragua",
+			"name": "Nicaragua"
 		}
 	},
 	{	"model": "locality.country",
@@ -1276,7 +1276,7 @@
 		"fields": {
 			"iso2": "NE",
 			"iso3": "NER",
-			"name": "Niger",
+			"name": "Niger"
 		}
 	},
 	{	"model": "locality.country",
@@ -1284,7 +1284,7 @@
 		"fields": {
 			"iso2": "NG",
 			"iso3": "NGA",
-			"name": "Nigeria",
+			"name": "Nigeria"
 		}
 	},
 	{	"model": "locality.country",
@@ -1292,7 +1292,7 @@
 		"fields": {
 			"iso2": "NU",
 			"iso3": "NIU",
-			"name": "Niue",
+			"name": "Niue"
 		}
 	},
 	{	"model": "locality.country",
@@ -1300,7 +1300,7 @@
 		"fields": {
 			"iso2": "NF",
 			"iso3": "NFK",
-			"name": "Norfolk Island",
+			"name": "Norfolk Island"
 		}
 	},
 	{	"model": "locality.country",
@@ -1308,7 +1308,7 @@
 		"fields": {
 			"iso2": "MP",
 			"iso3": "MNP",
-			"name": "Northern Mariana Islands",
+			"name": "Northern Mariana Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1316,7 +1316,7 @@
 		"fields": {
 			"iso2": "NO",
 			"iso3": "NOR",
-			"name": "Norway",
+			"name": "Norway"
 		}
 	},
 	{	"model": "locality.country",
@@ -1324,7 +1324,7 @@
 		"fields": {
 			"iso2": "OM",
 			"iso3": "OMN",
-			"name": "Oman",
+			"name": "Oman"
 		}
 	},
 	{	"model": "locality.country",
@@ -1332,7 +1332,7 @@
 		"fields": {
 			"iso2": "PK",
 			"iso3": "PAK",
-			"name": "Pakistan",
+			"name": "Pakistan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1340,7 +1340,7 @@
 		"fields": {
 			"iso2": "PW",
 			"iso3": "PLW",
-			"name": "Palau",
+			"name": "Palau"
 		}
 	},
 	{	"model": "locality.country",
@@ -1348,7 +1348,7 @@
 		"fields": {
 			"iso2": "PS",
 			"iso3": "PSE",
-			"name": "Palestine",
+			"name": "Palestine"
 		}
 	},
 	{	"model": "locality.country",
@@ -1356,7 +1356,7 @@
 		"fields": {
 			"iso2": "PA",
 			"iso3": "PAN",
-			"name": "Panama",
+			"name": "Panama"
 		}
 	},
 	{	"model": "locality.country",
@@ -1364,7 +1364,7 @@
 		"fields": {
 			"iso2": "PG",
 			"iso3": "PNG",
-			"name": "Papua New Guinea",
+			"name": "Papua New Guinea"
 		}
 	},
 	{	"model": "locality.country",
@@ -1372,7 +1372,7 @@
 		"fields": {
 			"iso2": "PY",
 			"iso3": "PRY",
-			"name": "Paraguay",
+			"name": "Paraguay"
 		}
 	},
 	{	"model": "locality.country",
@@ -1380,7 +1380,7 @@
 		"fields": {
 			"iso2": "PE",
 			"iso3": "PER",
-			"name": "Peru",
+			"name": "Peru"
 		}
 	},
 	{	"model": "locality.country",
@@ -1388,7 +1388,7 @@
 		"fields": {
 			"iso2": "PH",
 			"iso3": "PHL",
-			"name": "Philippines",
+			"name": "Philippines"
 		}
 	},
 	{	"model": "locality.country",
@@ -1396,7 +1396,7 @@
 		"fields": {
 			"iso2": "PN",
 			"iso3": "PCN",
-			"name": "Pitcairn",
+			"name": "Pitcairn"
 		}
 	},
 	{	"model": "locality.country",
@@ -1404,7 +1404,7 @@
 		"fields": {
 			"iso2": "PL",
 			"iso3": "POL",
-			"name": "Poland",
+			"name": "Poland"
 		}
 	},
 	{	"model": "locality.country",
@@ -1412,7 +1412,7 @@
 		"fields": {
 			"iso2": "PT",
 			"iso3": "PRT",
-			"name": "Portugal",
+			"name": "Portugal"
 		}
 	},
 	{	"model": "locality.country",
@@ -1420,7 +1420,7 @@
 		"fields": {
 			"iso2": "PR",
 			"iso3": "PRI",
-			"name": "Puerto Rico",
+			"name": "Puerto Rico"
 		}
 	},
 	{	"model": "locality.country",
@@ -1428,7 +1428,7 @@
 		"fields": {
 			"iso2": "QA",
 			"iso3": "QAT",
-			"name": "Qatar",
+			"name": "Qatar"
 		}
 	},
 	{	"model": "locality.country",
@@ -1436,7 +1436,7 @@
 		"fields": {
 			"iso2": "RE",
 			"iso3": "REU",
-			"name": "Reunion",
+			"name": "Reunion"
 		}
 	},
 	{	"model": "locality.country",
@@ -1444,7 +1444,7 @@
 		"fields": {
 			"iso2": "RO",
 			"iso3": "ROU",
-			"name": "Romania",
+			"name": "Romania"
 		}
 	},
 	{	"model": "locality.country",
@@ -1452,7 +1452,7 @@
 		"fields": {
 			"iso2": "RU",
 			"iso3": "RUS",
-			"name": "Russian Federation",
+			"name": "Russian Federation"
 		}
 	},
 	{	"model": "locality.country",
@@ -1460,7 +1460,7 @@
 		"fields": {
 			"iso2": "RW",
 			"iso3": "RWA",
-			"name": "Rwanda",
+			"name": "Rwanda"
 		}
 	},
 	{	"model": "locality.country",
@@ -1468,7 +1468,7 @@
 		"fields": {
 			"iso2": "BL",
 			"iso3": "BLM",
-			"name": "Saint Barthélemy",
+			"name": "Saint Barthélemy"
 		}
 	},
 	{	"model": "locality.country",
@@ -1476,7 +1476,7 @@
 		"fields": {
 			"iso2": "SH",
 			"iso3": "SHN",
-			"name": "Saint Helena",
+			"name": "Saint Helena"
 		}
 	},
 	{	"model": "locality.country",
@@ -1484,7 +1484,7 @@
 		"fields": {
 			"iso2": "KN",
 			"iso3": "KNA",
-			"name": "Saint Kitts and Nevis",
+			"name": "Saint Kitts and Nevis"
 		}
 	},
 	{	"model": "locality.country",
@@ -1492,7 +1492,7 @@
 		"fields": {
 			"iso2": "LC",
 			"iso3": "LCA",
-			"name": "Saint Lucia",
+			"name": "Saint Lucia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1500,7 +1500,7 @@
 		"fields": {
 			"iso2": "MF",
 			"iso3": "MAF",
-			"name": "Saint Martin (French part)",
+			"name": "Saint Martin (French part)"
 		}
 	},
 	{	"model": "locality.country",
@@ -1508,7 +1508,7 @@
 		"fields": {
 			"iso2": "PM",
 			"iso3": "SPM",
-			"name": "Saint Pierre and Miquelon",
+			"name": "Saint Pierre and Miquelon"
 		}
 	},
 	{	"model": "locality.country",
@@ -1516,7 +1516,7 @@
 		"fields": {
 			"iso2": "VC",
 			"iso3": "VCT",
-			"name": "Saint Vincent and theGrenadines",
+			"name": "Saint Vincent and theGrenadines"
 		}
 	},
 	{	"model": "locality.country",
@@ -1524,7 +1524,7 @@
 		"fields": {
 			"iso2": "WS",
 			"iso3": "WSM",
-			"name": "Samoa",
+			"name": "Samoa"
 		}
 	},
 	{	"model": "locality.country",
@@ -1532,7 +1532,7 @@
 		"fields": {
 			"iso2": "SM",
 			"iso3": "SMR",
-			"name": "San Marino",
+			"name": "San Marino"
 		}
 	},
 	{	"model": "locality.country",
@@ -1540,7 +1540,7 @@
 		"fields": {
 			"iso2": "ST",
 			"iso3": "STP",
-			"name": "Sao Tome and Principe",
+			"name": "Sao Tome and Principe"
 		}
 	},
 	{	"model": "locality.country",
@@ -1548,7 +1548,7 @@
 		"fields": {
 			"iso2": "SA",
 			"iso3": "SAU",
-			"name": "Saudi Arabia",
+			"name": "Saudi Arabia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1556,7 +1556,7 @@
 		"fields": {
 			"iso2": "SN",
 			"iso3": "SEN",
-			"name": "Senegal",
+			"name": "Senegal"
 		}
 	},
 	{	"model": "locality.country",
@@ -1564,7 +1564,7 @@
 		"fields": {
 			"iso2": "RS",
 			"iso3": "SRB",
-			"name": "Serbia",
+			"name": "Serbia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1572,7 +1572,7 @@
 		"fields": {
 			"iso2": "SC",
 			"iso3": "SYC",
-			"name": "Seychelles",
+			"name": "Seychelles"
 		}
 	},
 	{	"model": "locality.country",
@@ -1580,7 +1580,7 @@
 		"fields": {
 			"iso2": "SL",
 			"iso3": "SLE",
-			"name": "Sierra Leone",
+			"name": "Sierra Leone"
 		}
 	},
 	{	"model": "locality.country",
@@ -1588,7 +1588,7 @@
 		"fields": {
 			"iso2": "SG",
 			"iso3": "SGP",
-			"name": "Singapore",
+			"name": "Singapore"
 		}
 	},
 	{	"model": "locality.country",
@@ -1596,7 +1596,7 @@
 		"fields": {
 			"iso2": "SX",
 			"iso3": "SXM",
-			"name": "Sint Maarten",
+			"name": "Sint Maarten"
 		}
 	},
 	{	"model": "locality.country",
@@ -1604,7 +1604,7 @@
 		"fields": {
 			"iso2": "SK",
 			"iso3": "SVK",
-			"name": "Slovakia",
+			"name": "Slovakia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1612,7 +1612,7 @@
 		"fields": {
 			"iso2": "SI",
 			"iso3": "SVN",
-			"name": "Slovenia",
+			"name": "Slovenia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1620,7 +1620,7 @@
 		"fields": {
 			"iso2": "SB",
 			"iso3": "SLB",
-			"name": "Solomon Islands",
+			"name": "Solomon Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1628,7 +1628,7 @@
 		"fields": {
 			"iso2": "SO",
 			"iso3": "SOM",
-			"name": "Somalia",
+			"name": "Somalia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1636,7 +1636,7 @@
 		"fields": {
 			"iso2": "ZA",
 			"iso3": "ZAF",
-			"name": "South Africa",
+			"name": "South Africa"
 		}
 	},
 	{	"model": "locality.country",
@@ -1644,7 +1644,7 @@
 		"fields": {
 			"iso2": "GS",
 			"iso3": "SGS",
-			"name": "South Georgia and SouthSandwich Islands",
+			"name": "South Georgia and SouthSandwich Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1652,7 +1652,7 @@
 		"fields": {
 			"iso2": "SS",
 			"iso3": "SSD",
-			"name": "South Sudan",
+			"name": "South Sudan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1660,7 +1660,7 @@
 		"fields": {
 			"iso2": "ES",
 			"iso3": "ESP",
-			"name": "Spain",
+			"name": "Spain"
 		}
 	},
 	{	"model": "locality.country",
@@ -1668,7 +1668,7 @@
 		"fields": {
 			"iso2": "LK",
 			"iso3": "LKA",
-			"name": "Sri Lanka",
+			"name": "Sri Lanka"
 		}
 	},
 	{	"model": "locality.country",
@@ -1676,7 +1676,7 @@
 		"fields": {
 			"iso2": "SD",
 			"iso3": "SDN",
-			"name": "Sudan",
+			"name": "Sudan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1684,7 +1684,7 @@
 		"fields": {
 			"iso2": "SR",
 			"iso3": "SUR",
-			"name": "Suriname",
+			"name": "Suriname"
 		}
 	},
 	{	"model": "locality.country",
@@ -1692,7 +1692,7 @@
 		"fields": {
 			"iso2": "SJ",
 			"iso3": "SJM",
-			"name": "Svalbard and Jan MayenIslands",
+			"name": "Svalbard and Jan MayenIslands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1700,7 +1700,7 @@
 		"fields": {
 			"iso2": "SZ",
 			"iso3": "SWZ",
-			"name": "Swaziland",
+			"name": "Swaziland"
 		}
 	},
 	{	"model": "locality.country",
@@ -1708,7 +1708,7 @@
 		"fields": {
 			"iso2": "SE",
 			"iso3": "SWE",
-			"name": "Sweden",
+			"name": "Sweden"
 		}
 	},
 	{	"model": "locality.country",
@@ -1716,7 +1716,7 @@
 		"fields": {
 			"iso2": "CH",
 			"iso3": "CHE",
-			"name": "Switzerland",
+			"name": "Switzerland"
 		}
 	},
 	{	"model": "locality.country",
@@ -1724,7 +1724,7 @@
 		"fields": {
 			"iso2": "SY",
 			"iso3": "SYR",
-			"name": "Syria",
+			"name": "Syria"
 		}
 	},
 	{	"model": "locality.country",
@@ -1732,7 +1732,7 @@
 		"fields": {
 			"iso2": "TW",
 			"iso3": "TWN",
-			"name": "Taiwan",
+			"name": "Taiwan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1740,7 +1740,7 @@
 		"fields": {
 			"iso2": "TJ",
 			"iso3": "TJK",
-			"name": "Tajikistan",
+			"name": "Tajikistan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1748,7 +1748,7 @@
 		"fields": {
 			"iso2": "TZ",
 			"iso3": "TZA",
-			"name": "Tanzania",
+			"name": "Tanzania"
 		}
 	},
 	{	"model": "locality.country",
@@ -1756,7 +1756,7 @@
 		"fields": {
 			"iso2": "TH",
 			"iso3": "THA",
-			"name": "Thailand",
+			"name": "Thailand"
 		}
 	},
 	{	"model": "locality.country",
@@ -1764,7 +1764,7 @@
 		"fields": {
 			"iso2": "TL",
 			"iso3": "TLS",
-			"name": "Timor-Leste",
+			"name": "Timor-Leste"
 		}
 	},
 	{	"model": "locality.country",
@@ -1772,7 +1772,7 @@
 		"fields": {
 			"iso2": "TG",
 			"iso3": "TGO",
-			"name": "Togo",
+			"name": "Togo"
 		}
 	},
 	{	"model": "locality.country",
@@ -1780,7 +1780,7 @@
 		"fields": {
 			"iso2": "TK",
 			"iso3": "TKL",
-			"name": "Tokelau",
+			"name": "Tokelau"
 		}
 	},
 	{	"model": "locality.country",
@@ -1788,7 +1788,7 @@
 		"fields": {
 			"iso2": "TO",
 			"iso3": "TON",
-			"name": "Tonga",
+			"name": "Tonga"
 		}
 	},
 	{	"model": "locality.country",
@@ -1796,7 +1796,7 @@
 		"fields": {
 			"iso2": "TT",
 			"iso3": "TTO",
-			"name": "Trinidad and Tobago",
+			"name": "Trinidad and Tobago"
 		}
 	},
 	{	"model": "locality.country",
@@ -1804,7 +1804,7 @@
 		"fields": {
 			"iso2": "TN",
 			"iso3": "TUN",
-			"name": "Tunisia",
+			"name": "Tunisia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1812,7 +1812,7 @@
 		"fields": {
 			"iso2": "TR",
 			"iso3": "TUR",
-			"name": "Turkey",
+			"name": "Turkey"
 		}
 	},
 	{	"model": "locality.country",
@@ -1820,7 +1820,7 @@
 		"fields": {
 			"iso2": "TM",
 			"iso3": "TKM",
-			"name": "Turkmenistan",
+			"name": "Turkmenistan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1828,7 +1828,7 @@
 		"fields": {
 			"iso2": "TC",
 			"iso3": "TCA",
-			"name": "Turks and Caicos Islands",
+			"name": "Turks and Caicos Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1836,7 +1836,7 @@
 		"fields": {
 			"iso2": "TV",
 			"iso3": "TUV",
-			"name": "Tuvalu",
+			"name": "Tuvalu"
 		}
 	},
 	{	"model": "locality.country",
@@ -1844,7 +1844,7 @@
 		"fields": {
 			"iso2": "UG",
 			"iso3": "UGA",
-			"name": "Uganda",
+			"name": "Uganda"
 		}
 	},
 	{	"model": "locality.country",
@@ -1852,7 +1852,7 @@
 		"fields": {
 			"iso2": "UA",
 			"iso3": "UKR",
-			"name": "Ukraine",
+			"name": "Ukraine"
 		}
 	},
 	{	"model": "locality.country",
@@ -1860,7 +1860,7 @@
 		"fields": {
 			"iso2": "AE",
 			"iso3": "ARE",
-			"name": "United Arab Emirates",
+			"name": "United Arab Emirates"
 		}
 	},
 	{	"model": "locality.country",
@@ -1868,7 +1868,7 @@
 		"fields": {
 			"iso2": "GB",
 			"iso3": "GBR",
-			"name": "United Kingdom",
+			"name": "United Kingdom"
 		}
 	},
 	{	"model": "locality.country",
@@ -1876,7 +1876,7 @@
 		"fields": {
 			"iso2": "UM",
 			"iso3": "UMI",
-			"name": "United States MinorOutlying Islands",
+			"name": "United States MinorOutlying Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1884,7 +1884,7 @@
 		"fields": {
 			"iso2": "US",
 			"iso3": "USA",
-			"name": "United States of America",
+			"name": "United States of America"
 		}
 	},
 	{	"model": "locality.country",
@@ -1892,7 +1892,7 @@
 		"fields": {
 			"iso2": "UY",
 			"iso3": "URY",
-			"name": "Uruguay",
+			"name": "Uruguay"
 		}
 	},
 	{	"model": "locality.country",
@@ -1900,7 +1900,7 @@
 		"fields": {
 			"iso2": "UZ",
 			"iso3": "UZB",
-			"name": "Uzbekistan",
+			"name": "Uzbekistan"
 		}
 	},
 	{	"model": "locality.country",
@@ -1908,7 +1908,7 @@
 		"fields": {
 			"iso2": "VU",
 			"iso3": "VUT",
-			"name": "Vanuatu",
+			"name": "Vanuatu"
 		}
 	},
 	{	"model": "locality.country",
@@ -1916,7 +1916,7 @@
 		"fields": {
 			"iso2": "VA",
 			"iso3": "VAT",
-			"name": "Vatican City",
+			"name": "Vatican City"
 		}
 	},
 	{	"model": "locality.country",
@@ -1924,7 +1924,7 @@
 		"fields": {
 			"iso2": "VE",
 			"iso3": "VEN",
-			"name": "Venezuela",
+			"name": "Venezuela"
 		}
 	},
 	{	"model": "locality.country",
@@ -1932,7 +1932,7 @@
 		"fields": {
 			"iso2": "VN",
 			"iso3": "VNM",
-			"name": "Vietnam",
+			"name": "Vietnam"
 		}
 	},
 	{	"model": "locality.country",
@@ -1940,7 +1940,7 @@
 		"fields": {
 			"iso2": "VG",
 			"iso3": "VGB",
-			"name": "Virgin Islands, British",
+			"name": "Virgin Islands, British"
 		}
 	},
 	{	"model": "locality.country",
@@ -1948,7 +1948,7 @@
 		"fields": {
 			"iso2": "VI",
 			"iso3": "VIR",
-			"name": "Virgin Islands, U.S.",
+			"name": "Virgin Islands, U.S."
 		}
 	},
 	{	"model": "locality.country",
@@ -1956,7 +1956,7 @@
 		"fields": {
 			"iso2": "WF",
 			"iso3": "WLF",
-			"name": "Wallis and Futuna Islands",
+			"name": "Wallis and Futuna Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1964,7 +1964,7 @@
 		"fields": {
 			"iso2": "EH",
 			"iso3": "ESH",
-			"name": "Western Sahara",
+			"name": "Western Sahara"
 		}
 	},
 	{	"model": "locality.country",
@@ -1972,7 +1972,7 @@
 		"fields": {
 			"iso2": "YE",
 			"iso3": "YEM",
-			"name": "Yemen",
+			"name": "Yemen"
 		}
 	},
 	{	"model": "locality.country",
@@ -1980,7 +1980,7 @@
 		"fields": {
 			"iso2": "ZM",
 			"iso3": "ZMB",
-			"name": "Zambia",
+			"name": "Zambia"
 		}
 	},
 	{	"model": "locality.country",
@@ -1988,7 +1988,4642 @@
 		"fields": {
 			"iso2": "ZW",
 			"iso3": "ZWE",
-			"name": "Zimbabwe",
+			"name": "Zimbabwe"
+		}
+	},
+	{
+		"pk": 1, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "B", 
+			"name": "Buenos Aires"
+		}
+	}, 
+	{
+		"pk": 2, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "K", 
+			"name": "Catamarca"
+		}
+	}, 
+	{
+		"pk": 3, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "H", 
+			"name": "Chaco"
+		}
+	}, 
+	{
+		"pk": 4, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "U", 
+			"name": "Chubut"
+		}
+	}, 
+	{
+		"pk": 5, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "C", 
+			"name": "Ciudad Aut\u00f3noma de Buenos Aires"
+		}
+	}, 
+	{
+		"pk": 6, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "X", 
+			"name": "C\u00f3rdoba"
+		}
+	}, 
+	{
+		"pk": 7, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "W", 
+			"name": "Corrientes"
+		}
+	}, 
+	{
+		"pk": 8, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "E", 
+			"name": "Entre R\u00edos"
+		}
+	}, 
+	{
+		"pk": 9, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "P", 
+			"name": "Formosa"
+		}
+	}, 
+	{
+		"pk": 10, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "Y", 
+			"name": "Jujuy"
+		}
+	}, 
+	{
+		"pk": 11, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "L", 
+			"name": "La Pampa"
+		}
+	}, 
+	{
+		"pk": 12, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "F", 
+			"name": "La Rioja"
+		}
+	}, 
+	{
+		"pk": 13, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "M", 
+			"name": "Mendoza"
+		}
+	}, 
+	{
+		"pk": 14, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "N", 
+			"name": "Misiones"
+		}
+	}, 
+	{
+		"pk": 15, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "Q", 
+			"name": "Neuqu\u00e9n"
+		}
+	}, 
+	{
+		"pk": 16, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "R", 
+			"name": "R\u00edo Negro"
+		}
+	}, 
+	{
+		"pk": 17, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "A", 
+			"name": "Salta"
+		}
+	}, 
+	{
+		"pk": 18, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "J", 
+			"name": "San Juan"
+		}
+	}, 
+	{
+		"pk": 19, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "D", 
+			"name": "San Luis"
+		}
+	}, 
+	{
+		"pk": 20, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "Z", 
+			"name": "Santa Cruz"
+		}
+	}, 
+	{
+		"pk": 21, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "S", 
+			"name": "Santa Fe"
+		}
+	}, 
+	{
+		"pk": 22, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "G", 
+			"name": "Santiago del Estero"
+		}
+	}, 
+	{
+		"pk": 23, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "V", 
+			"name": "Tierra del Fuego, Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur"
+		}
+	}, 
+	{
+		"pk": 24, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 26, 
+			"abbr": "T", 
+			"name": "Tucum\u00e1n"
+		}
+	}, 
+	{
+		"pk": 25, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "ACT", 
+			"name": "Australian Capital Territory"
+		}
+	}, 
+	{
+		"pk": 26, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "NSW", 
+			"name": "New South Wales"
+		}
+	}, 
+	{
+		"pk": 27, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "NT", 
+			"name": "Northern Territory"
+		}
+	}, 
+	{
+		"pk": 28, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "QLD", 
+			"name": "Queensland"
+		}
+	}, 
+	{
+		"pk": 29, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "SA", 
+			"name": "South Australia"
+		}
+	}, 
+	{
+		"pk": 30, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "TAS", 
+			"name": "Tasmania"
+		}
+	}, 
+	{
+		"pk": 31, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "VIC", 
+			"name": "Victoria"
+		}
+	}, 
+	{
+		"pk": 32, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 30, 
+			"abbr": "WA", 
+			"name": "Western Australia"
+		}
+	}, 
+	{
+		"pk": 33, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "BL", 
+			"name": "Burgenland"
+		}
+	}, 
+	{
+		"pk": 34, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "KA", 
+			"name": "Carinthia"
+		}
+	}, 
+	{
+		"pk": 35, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "NO", 
+			"name": "Lower Austria"
+		}
+	}, 
+	{
+		"pk": 36, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "OO", 
+			"name": "Upper Austria"
+		}
+	}, 
+	{
+		"pk": 37, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "SA", 
+			"name": "Salzburg"
+		}
+	}, 
+	{
+		"pk": 38, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "ST", 
+			"name": "Styria"
+		}
+	}, 
+	{
+		"pk": 39, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "TI", 
+			"name": "Tyrol"
+		}
+	}, 
+	{
+		"pk": 40, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "VO", 
+			"name": "Vorarlberg"
+		}
+	}, 
+	{
+		"pk": 41, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 32, 
+			"abbr": "WI", 
+			"name": "Vienna"
+		}
+	}, 
+	{
+		"pk": 42, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "VAN", 
+			"name": "Antwerp"
+		}
+	}, 
+	{
+		"pk": 43, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "BRU", 
+			"name": "Brussels"
+		}
+	}, 
+	{
+		"pk": 44, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "VOV", 
+			"name": "East Flanders"
+		}
+	}, 
+	{
+		"pk": 45, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "VBR", 
+			"name": "Flemish Brabant"
+		}
+	}, 
+	{
+		"pk": 46, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "WHT", 
+			"name": "Hainaut"
+		}
+	}, 
+	{
+		"pk": 47, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "WLG", 
+			"name": "Liege"
+		}
+	}, 
+	{
+		"pk": 48, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "VLI", 
+			"name": "Limburg"
+		}
+	}, 
+	{
+		"pk": 49, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "WLX", 
+			"name": "Luxembourg"
+		}
+	}, 
+	{
+		"pk": 50, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "WNA", 
+			"name": "Namur"
+		}
+	}, 
+	{
+		"pk": 51, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "WBR", 
+			"name": "Walloon Brabant"
+		}
+	}, 
+	{
+		"pk": 52, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 46, 
+			"abbr": "VWV", 
+			"name": "West Flanders"
+		}
+	}, 
+	{
+		"pk": 53, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "AC", 
+			"name": "Acre"
+		}
+	}, 
+	{
+		"pk": 54, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "AL", 
+			"name": "Alagoas"
+		}
+	}, 
+	{
+		"pk": 55, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "AP", 
+			"name": "Amap\u00e1"
+		}
+	}, 
+	{
+		"pk": 56, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "AM", 
+			"name": "Amazonas"
+		}
+	}, 
+	{
+		"pk": 57, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "BA", 
+			"name": "Bahia"
+		}
+	}, 
+	{
+		"pk": 58, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "CE", 
+			"name": "Cear\u00e1"
+		}
+	}, 
+	{
+		"pk": 59, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "DF", 
+			"name": "Distrito Federal"
+		}
+	}, 
+	{
+		"pk": 60, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "ES", 
+			"name": "Esp\u00edrito Santo"
+		}
+	}, 
+	{
+		"pk": 61, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "GO", 
+			"name": "Goi\u00e1s"
+		}
+	}, 
+	{
+		"pk": 62, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "MA", 
+			"name": "Maranh\u00e3o"
+		}
+	}, 
+	{
+		"pk": 63, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "MT", 
+			"name": "Mato Grosso"
+		}
+	}, 
+	{
+		"pk": 64, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "MS", 
+			"name": "Mato Grosso do Sul"
+		}
+	}, 
+	{
+		"pk": 65, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "MG", 
+			"name": "Minas Gerais"
+		}
+	}, 
+	{
+		"pk": 66, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "PA", 
+			"name": "Par\u00e1"
+		}
+	}, 
+	{
+		"pk": 67, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "PB", 
+			"name": "Para\u00edba"
+		}
+	}, 
+	{
+		"pk": 68, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "PR", 
+			"name": "Paran\u00e1"
+		}
+	}, 
+	{
+		"pk": 69, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "PE", 
+			"name": "Pernambuco"
+		}
+	}, 
+	{
+		"pk": 70, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "PI", 
+			"name": "Piau\u00ed"
+		}
+	}, 
+	{
+		"pk": 71, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "RJ", 
+			"name": "Rio de Janeiro"
+		}
+	}, 
+	{
+		"pk": 72, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "RN", 
+			"name": "Rio Grande do Norte"
+		}
+	}, 
+	{
+		"pk": 73, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "RS", 
+			"name": "Rio Grande do Sul"
+		}
+	}, 
+	{
+		"pk": 74, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "RO", 
+			"name": "Rond\u00f4nia"
+		}
+	}, 
+	{
+		"pk": 75, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "RR", 
+			"name": "Roraima"
+		}
+	}, 
+	{
+		"pk": 76, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "SC", 
+			"name": "Santa Catarina"
+		}
+	}, 
+	{
+		"pk": 77, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "SP", 
+			"name": "S\u00e3o Paulo"
+		}
+	}, 
+	{
+		"pk": 78, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "SE", 
+			"name": "Sergipe"
+		}
+	}, 
+	{
+		"pk": 79, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 62, 
+			"abbr": "TO", 
+			"name": "Tocantins"
+		}
+	}, 
+	{
+		"pk": 80, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "AB", 
+			"name": "Alberta"
+		}
+	}, 
+	{
+		"pk": 81, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "BC", 
+			"name": "British Columbia"
+		}
+	}, 
+	{
+		"pk": 82, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "MB", 
+			"name": "Manitoba"
+		}
+	}, 
+	{
+		"pk": 83, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "NB", 
+			"name": "New Brunswick"
+		}
+	}, 
+	{
+		"pk": 84, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "NL", 
+			"name": "Newfoundland and Labrador"
+		}
+	}, 
+	{
+		"pk": 85, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "NT", 
+			"name": "Northwest Territories"
+		}
+	}, 
+	{
+		"pk": 86, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "NS", 
+			"name": "Nova Scotia"
+		}
+	}, 
+	{
+		"pk": 87, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "NU", 
+			"name": "Nunavut"
+		}
+	}, 
+	{
+		"pk": 88, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "ON", 
+			"name": "Ontario"
+		}
+	}, 
+	{
+		"pk": 89, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "PE", 
+			"name": "Prince Edward Island"
+		}
+	}, 
+	{
+		"pk": 90, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "QC", 
+			"name": "Quebec"
+		}
+	}, 
+	{
+		"pk": 91, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "SK", 
+			"name": "Saskatchewan"
+		}
+	}, 
+	{
+		"pk": 92, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 124, 
+			"abbr": "YT", 
+			"name": "Yukon"
+		}
+	}, 
+	{
+		"pk": 93, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "BW", 
+			"name": "Baden-Wuerttemberg"
+		}
+	}, 
+	{
+		"pk": 94, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "BY", 
+			"name": "Bavaria"
+		}
+	}, 
+	{
+		"pk": 95, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "BE", 
+			"name": "Berlin"
+		}
+	}, 
+	{
+		"pk": 96, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "BB", 
+			"name": "Brandenburg"
+		}
+	}, 
+	{
+		"pk": 97, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "HB", 
+			"name": "Bremen"
+		}
+	}, 
+	{
+		"pk": 98, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "HH", 
+			"name": "Hamburg"
+		}
+	}, 
+	{
+		"pk": 99, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "HE", 
+			"name": "Hessen"
+		}
+	}, 
+	{
+		"pk": 100, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "MV", 
+			"name": "Mecklenburg-Western Pomerania"
+		}
+	}, 
+	{
+		"pk": 101, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "NI", 
+			"name": "Lower Saxony"
+		}
+	}, 
+	{
+		"pk": 102, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "NW", 
+			"name": "North Rhine-Westphalia"
+		}
+	}, 
+	{
+		"pk": 103, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "RP", 
+			"name": "Rhineland-Palatinate"
+		}
+	}, 
+	{
+		"pk": 104, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "SL", 
+			"name": "Saarland"
+		}
+	}, 
+	{
+		"pk": 105, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "SN", 
+			"name": "Saxony"
+		}
+	}, 
+	{
+		"pk": 106, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "ST", 
+			"name": "Saxony-Anhalt"
+		}
+	}, 
+	{
+		"pk": 107, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "SH", 
+			"name": "Schleswig-Holstein"
+		}
+	}, 
+	{
+		"pk": 108, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 276, 
+			"abbr": "TH", 
+			"name": "Thuringia"
+		}
+	}, 
+	{
+		"pk": 109, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "DR", 
+			"name": "Drenthe"
+		}
+	}, 
+	{
+		"pk": 110, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "FL", 
+			"name": "Flevoland"
+		}
+	}, 
+	{
+		"pk": 111, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "FR", 
+			"name": "Friesland"
+		}
+	}, 
+	{
+		"pk": 112, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "GL", 
+			"name": "Gelderland"
+		}
+	}, 
+	{
+		"pk": 113, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "GR", 
+			"name": "Groningen"
+		}
+	}, 
+	{
+		"pk": 114, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "LB", 
+			"name": "Limburg"
+		}
+	}, 
+	{
+		"pk": 115, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "NB", 
+			"name": "Noord-Brabant"
+		}
+	}, 
+	{
+		"pk": 116, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "NH", 
+			"name": "Noord-Holland"
+		}
+	}, 
+	{
+		"pk": 117, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "OV", 
+			"name": "Overijssel"
+		}
+	}, 
+	{
+		"pk": 118, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "UT", 
+			"name": "Utrecht"
+		}
+	}, 
+	{
+		"pk": 119, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "ZE", 
+			"name": "Zeeland"
+		}
+	}, 
+	{
+		"pk": 120, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 528, 
+			"abbr": "ZH", 
+			"name": "Zuid-Holland"
+		}
+	}, 
+	{
+		"pk": 121, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "KA", 
+			"name": "Karnataka"
+		}
+	}, 
+	{
+		"pk": 122, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "AP", 
+			"name": "Andhra Pradesh"
+		}
+	}, 
+	{
+		"pk": 123, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "KL", 
+			"name": "Kerala"
+		}
+	}, 
+	{
+		"pk": 124, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "TN", 
+			"name": "Tamil Nadu"
+		}
+	}, 
+	{
+		"pk": 125, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "MH", 
+			"name": "Maharashtra"
+		}
+	}, 
+	{
+		"pk": 126, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "UP", 
+			"name": "Uttar Pradesh"
+		}
+	}, 
+	{
+		"pk": 127, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "GA", 
+			"name": "Goa"
+		}
+	}, 
+	{
+		"pk": 128, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "GJ", 
+			"name": "Gujarat"
+		}
+	}, 
+	{
+		"pk": 129, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "RJ", 
+			"name": "Rajasthan"
+		}
+	}, 
+	{
+		"pk": 130, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "HP", 
+			"name": "Himachal Pradesh"
+		}
+	}, 
+	{
+		"pk": 131, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "JK", 
+			"name": "Jammu and Kashmir"
+		}
+	}, 
+	{
+		"pk": 132, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "AR", 
+			"name": "Arunachal Pradesh"
+		}
+	}, 
+	{
+		"pk": 133, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "AS", 
+			"name": "Assam"
+		}
+	}, 
+	{
+		"pk": 134, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "BR", 
+			"name": "Bihar"
+		}
+	}, 
+	{
+		"pk": 135, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "CG", 
+			"name": "Chattisgarh"
+		}
+	}, 
+	{
+		"pk": 136, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "HR", 
+			"name": "Haryana"
+		}
+	}, 
+	{
+		"pk": 137, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "JH", 
+			"name": "Jharkhand"
+		}
+	}, 
+	{
+		"pk": 138, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "MP", 
+			"name": "Madhya Pradesh"
+		}
+	}, 
+	{
+		"pk": 139, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "MN", 
+			"name": "Manipur"
+		}
+	}, 
+	{
+		"pk": 140, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "ML", 
+			"name": "Meghalaya"
+		}
+	}, 
+	{
+		"pk": 141, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "MZ", 
+			"name": "Mizoram"
+		}
+	}, 
+	{
+		"pk": 142, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "NL", 
+			"name": "Nagaland"
+		}
+	}, 
+	{
+		"pk": 143, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "OR", 
+			"name": "Orissa"
+		}
+	}, 
+	{
+		"pk": 144, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "PB", 
+			"name": "Punjab"
+		}
+	}, 
+	{
+		"pk": 145, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "SK", 
+			"name": "Sikkim"
+		}
+	}, 
+	{
+		"pk": 146, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "TR", 
+			"name": "Tripura"
+		}
+	}, 
+	{
+		"pk": 147, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "UA", 
+			"name": "Uttarakhand"
+		}
+	}, 
+	{
+		"pk": 148, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "WB", 
+			"name": "West Bengal"
+		}
+	}, 
+	{
+		"pk": 149, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "AN", 
+			"name": "Andaman and Nicobar"
+		}
+	}, 
+	{
+		"pk": 150, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "CH", 
+			"name": "Chandigarh"
+		}
+	}, 
+	{
+		"pk": 151, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "DN", 
+			"name": "Dadra and Nagar Haveli"
+		}
+	}, 
+	{
+		"pk": 152, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "DD", 
+			"name": "Daman and Diu"
+		}
+	}, 
+	{
+		"pk": 153, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "DL", 
+			"name": "Delhi"
+		}
+	}, 
+	{
+		"pk": 154, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "LD", 
+			"name": "Lakshadweep"
+		}
+	}, 
+	{
+		"pk": 155, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 356, 
+			"abbr": "PY", 
+			"name": "Pondicherry"
+		}
+	}, 
+	{
+		"pk": 156, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AG", 
+			"name": "Agrigento"
+		}
+	}, 
+	{
+		"pk": 157, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AL", 
+			"name": "Alessandria"
+		}
+	}, 
+	{
+		"pk": 158, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AN", 
+			"name": "Ancona"
+		}
+	}, 
+	{
+		"pk": 159, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AO", 
+			"name": "Aosta"
+		}
+	}, 
+	{
+		"pk": 160, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AR", 
+			"name": "Arezzo"
+		}
+	}, 
+	{
+		"pk": 161, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AP", 
+			"name": "Ascoli Piceno"
+		}
+	}, 
+	{
+		"pk": 162, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AT", 
+			"name": "Asti"
+		}
+	}, 
+	{
+		"pk": 163, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AV", 
+			"name": "Avellino"
+		}
+	}, 
+	{
+		"pk": 164, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BA", 
+			"name": "Bari"
+		}
+	}, 
+	{
+		"pk": 165, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BT", 
+			"name": "Barletta-Andria-Trani"
+		}
+	}, 
+	{
+		"pk": 166, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BL", 
+			"name": "Belluno"
+		}
+	}, 
+	{
+		"pk": 167, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BN", 
+			"name": "Benevento"
+		}
+	}, 
+	{
+		"pk": 168, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BG", 
+			"name": "Bergamo"
+		}
+	}, 
+	{
+		"pk": 169, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BI", 
+			"name": "Biella"
+		}
+	}, 
+	{
+		"pk": 170, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BO", 
+			"name": "Bologna"
+		}
+	}, 
+	{
+		"pk": 171, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BZ", 
+			"name": "Bolzano/Bozen"
+		}
+	}, 
+	{
+		"pk": 172, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BS", 
+			"name": "Brescia"
+		}
+	}, 
+	{
+		"pk": 173, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "BR", 
+			"name": "Brindisi"
+		}
+	}, 
+	{
+		"pk": 174, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CA", 
+			"name": "Cagliari"
+		}
+	}, 
+	{
+		"pk": 175, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CL", 
+			"name": "Caltanissetta"
+		}
+	}, 
+	{
+		"pk": 176, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CB", 
+			"name": "Campobasso"
+		}
+	}, 
+	{
+		"pk": 177, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CI", 
+			"name": "Carbonia-Iglesias"
+		}
+	}, 
+	{
+		"pk": 178, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CE", 
+			"name": "Caserta"
+		}
+	}, 
+	{
+		"pk": 179, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CT", 
+			"name": "Catania"
+		}
+	}, 
+	{
+		"pk": 180, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CZ", 
+			"name": "Catanzaro"
+		}
+	}, 
+	{
+		"pk": 181, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CH", 
+			"name": "Chieti"
+		}
+	}, 
+	{
+		"pk": 182, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CO", 
+			"name": "Como"
+		}
+	}, 
+	{
+		"pk": 183, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CS", 
+			"name": "Cosenza"
+		}
+	}, 
+	{
+		"pk": 184, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CR", 
+			"name": "Cremona"
+		}
+	}, 
+	{
+		"pk": 185, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "KR", 
+			"name": "Crotone"
+		}
+	}, 
+	{
+		"pk": 186, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "CN", 
+			"name": "Cuneo"
+		}
+	}, 
+	{
+		"pk": 187, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "EN", 
+			"name": "Enna"
+		}
+	}, 
+	{
+		"pk": 188, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "FM", 
+			"name": "Fermo"
+		}
+	}, 
+	{
+		"pk": 189, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "FE", 
+			"name": "Ferrara"
+		}
+	}, 
+	{
+		"pk": 190, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "FI", 
+			"name": "Firenze"
+		}
+	}, 
+	{
+		"pk": 191, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "FG", 
+			"name": "Foggia"
+		}
+	}, 
+	{
+		"pk": 192, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "FC", 
+			"name": "Forl\u00ec-Cesena"
+		}
+	}, 
+	{
+		"pk": 193, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "FR", 
+			"name": "Frosinone"
+		}
+	}, 
+	{
+		"pk": 194, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "GE", 
+			"name": "Genova"
+		}
+	}, 
+	{
+		"pk": 195, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "GO", 
+			"name": "Gorizia"
+		}
+	}, 
+	{
+		"pk": 196, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "GR", 
+			"name": "Grosseto"
+		}
+	}, 
+	{
+		"pk": 197, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "IM", 
+			"name": "Imperia"
+		}
+	}, 
+	{
+		"pk": 198, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "IS", 
+			"name": "Isernia"
+		}
+	}, 
+	{
+		"pk": 199, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SP", 
+			"name": "La Spezia"
+		}
+	}, 
+	{
+		"pk": 200, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "AQ", 
+			"name": "L\u2019Aquila"
+		}
+	}, 
+	{
+		"pk": 201, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "LT", 
+			"name": "Latina"
+		}
+	}, 
+	{
+		"pk": 202, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "LE", 
+			"name": "Lecce"
+		}
+	}, 
+	{
+		"pk": 203, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "LC", 
+			"name": "Lecco"
+		}
+	}, 
+	{
+		"pk": 204, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "LI", 
+			"name": "Livorno"
+		}
+	}, 
+	{
+		"pk": 205, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "LO", 
+			"name": "Lodi"
+		}
+	}, 
+	{
+		"pk": 206, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "LU", 
+			"name": "Lucca"
+		}
+	}, 
+	{
+		"pk": 207, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MC", 
+			"name": "Macerata"
+		}
+	}, 
+	{
+		"pk": 208, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MN", 
+			"name": "Mantova"
+		}
+	}, 
+	{
+		"pk": 209, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MS", 
+			"name": "Massa-Carrara"
+		}
+	}, 
+	{
+		"pk": 210, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MT", 
+			"name": "Matera"
+		}
+	}, 
+	{
+		"pk": 211, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VS", 
+			"name": "Medio Campidano"
+		}
+	}, 
+	{
+		"pk": 212, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "ME", 
+			"name": "Messina"
+		}
+	}, 
+	{
+		"pk": 213, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MI", 
+			"name": "Milano"
+		}
+	}, 
+	{
+		"pk": 214, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MO", 
+			"name": "Modena"
+		}
+	}, 
+	{
+		"pk": 215, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "MB", 
+			"name": "Monza e Brianza"
+		}
+	}, 
+	{
+		"pk": 216, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "NA", 
+			"name": "Napoli"
+		}
+	}, 
+	{
+		"pk": 217, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "NO", 
+			"name": "Novara"
+		}
+	}, 
+	{
+		"pk": 218, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "NU", 
+			"name": "Nuoro"
+		}
+	}, 
+	{
+		"pk": 219, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "OG", 
+			"name": "Ogliastra"
+		}
+	}, 
+	{
+		"pk": 220, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "OT", 
+			"name": "Olbia-Tempio"
+		}
+	}, 
+	{
+		"pk": 221, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "OR", 
+			"name": "Oristano"
+		}
+	}, 
+	{
+		"pk": 222, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PD", 
+			"name": "Padova"
+		}
+	}, 
+	{
+		"pk": 223, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PA", 
+			"name": "Palermo"
+		}
+	}, 
+	{
+		"pk": 224, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PR", 
+			"name": "Parma"
+		}
+	}, 
+	{
+		"pk": 225, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PV", 
+			"name": "Pavia"
+		}
+	}, 
+	{
+		"pk": 226, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PG", 
+			"name": "Perugia"
+		}
+	}, 
+	{
+		"pk": 227, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PU", 
+			"name": "Pesaro e Urbino"
+		}
+	}, 
+	{
+		"pk": 228, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PE", 
+			"name": "Pescara"
+		}
+	}, 
+	{
+		"pk": 229, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PC", 
+			"name": "Piacenza"
+		}
+	}, 
+	{
+		"pk": 230, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PI", 
+			"name": "Pisa"
+		}
+	}, 
+	{
+		"pk": 231, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PT", 
+			"name": "Pistoia"
+		}
+	}, 
+	{
+		"pk": 232, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PN", 
+			"name": "Pordenone"
+		}
+	}, 
+	{
+		"pk": 233, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PZ", 
+			"name": "Potenza"
+		}
+	}, 
+	{
+		"pk": 234, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "PO", 
+			"name": "Prato"
+		}
+	}, 
+	{
+		"pk": 235, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RG", 
+			"name": "Ragusa"
+		}
+	}, 
+	{
+		"pk": 236, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RA", 
+			"name": "Ravenna"
+		}
+	}, 
+	{
+		"pk": 237, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RC", 
+			"name": "Reggio Calabria"
+		}
+	}, 
+	{
+		"pk": 238, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RE", 
+			"name": "Reggio Emilia"
+		}
+	}, 
+	{
+		"pk": 239, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RI", 
+			"name": "Rieti"
+		}
+	}, 
+	{
+		"pk": 240, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RN", 
+			"name": "Rimini"
+		}
+	}, 
+	{
+		"pk": 241, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RM", 
+			"name": "Roma"
+		}
+	}, 
+	{
+		"pk": 242, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "RO", 
+			"name": "Rovigo"
+		}
+	}, 
+	{
+		"pk": 243, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SA", 
+			"name": "Salerno"
+		}
+	}, 
+	{
+		"pk": 244, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SS", 
+			"name": "Sassari"
+		}
+	}, 
+	{
+		"pk": 245, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SV", 
+			"name": "Savona"
+		}
+	}, 
+	{
+		"pk": 246, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SI", 
+			"name": "Siena"
+		}
+	}, 
+	{
+		"pk": 247, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SR", 
+			"name": "Siracusa"
+		}
+	}, 
+	{
+		"pk": 248, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "SO", 
+			"name": "Sondrio"
+		}
+	}, 
+	{
+		"pk": 249, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TA", 
+			"name": "Taranto"
+		}
+	}, 
+	{
+		"pk": 250, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TE", 
+			"name": "Teramo"
+		}
+	}, 
+	{
+		"pk": 251, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TR", 
+			"name": "Terni"
+		}
+	}, 
+	{
+		"pk": 252, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TO", 
+			"name": "Torino"
+		}
+	}, 
+	{
+		"pk": 253, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TP", 
+			"name": "Trapani"
+		}
+	}, 
+	{
+		"pk": 254, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TN", 
+			"name": "Trento"
+		}
+	}, 
+	{
+		"pk": 255, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TV", 
+			"name": "Treviso"
+		}
+	}, 
+	{
+		"pk": 256, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "TS", 
+			"name": "Trieste"
+		}
+	}, 
+	{
+		"pk": 257, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "UD", 
+			"name": "Udine"
+		}
+	}, 
+	{
+		"pk": 258, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VA", 
+			"name": "Varese"
+		}
+	}, 
+	{
+		"pk": 259, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VE", 
+			"name": "Venezia"
+		}
+	}, 
+	{
+		"pk": 260, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VB", 
+			"name": "Verbano Cusio Ossola"
+		}
+	}, 
+	{
+		"pk": 261, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VC", 
+			"name": "Vercelli"
+		}
+	}, 
+	{
+		"pk": 262, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VR", 
+			"name": "Verona"
+		}
+	}, 
+	{
+		"pk": 263, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VV", 
+			"name": "Vibo Valentia"
+		}
+	}, 
+	{
+		"pk": 264, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VI", 
+			"name": "Vicenza"
+		}
+	}, 
+	{
+		"pk": 265, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 380, 
+			"abbr": "VT", 
+			"name": "Viterbo"
+		}
+	}, 
+	{
+		"pk": 266, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "AGU", 
+			"name": "Aguascalientes"
+		}
+	}, 
+	{
+		"pk": 267, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "BCN", 
+			"name": "Baja California"
+		}
+	}, 
+	{
+		"pk": 268, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "BCS", 
+			"name": "Baja California Sur"
+		}
+	}, 
+	{
+		"pk": 269, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "CAM", 
+			"name": "Campeche"
+		}
+	}, 
+	{
+		"pk": 270, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "CHH", 
+			"name": "Chihuahua"
+		}
+	}, 
+	{
+		"pk": 271, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "CHP", 
+			"name": "Chiapas"
+		}
+	}, 
+	{
+		"pk": 272, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "COA", 
+			"name": "Coahuila"
+		}
+	}, 
+	{
+		"pk": 273, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "COL", 
+			"name": "Colima"
+		}
+	}, 
+	{
+		"pk": 274, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "DIF", 
+			"name": "Distrito Federal"
+		}
+	}, 
+	{
+		"pk": 275, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "DUR", 
+			"name": "Durango"
+		}
+	}, 
+	{
+		"pk": 276, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "GRO", 
+			"name": "Guerrero"
+		}
+	}, 
+	{
+		"pk": 277, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "GUA", 
+			"name": "Guanajuato"
+		}
+	}, 
+	{
+		"pk": 278, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "HID", 
+			"name": "Hidalgo"
+		}
+	}, 
+	{
+		"pk": 279, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "JAL", 
+			"name": "Jalisco"
+		}
+	}, 
+	{
+		"pk": 280, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "MEX", 
+			"name": "Estado de M\u00e9xico"
+		}
+	}, 
+	{
+		"pk": 281, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "MIC", 
+			"name": "Michoac\u00e1n"
+		}
+	}, 
+	{
+		"pk": 282, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "MOR", 
+			"name": "Morelos"
+		}
+	}, 
+	{
+		"pk": 283, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "NAY", 
+			"name": "Nayarit"
+		}
+	}, 
+	{
+		"pk": 284, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "NLE", 
+			"name": "Nuevo Le\u00f3n"
+		}
+	}, 
+	{
+		"pk": 285, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "OAX", 
+			"name": "Oaxaca"
+		}
+	}, 
+	{
+		"pk": 286, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "PUE", 
+			"name": "Puebla"
+		}
+	}, 
+	{
+		"pk": 287, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "QUE", 
+			"name": "Quer\u00e9taro"
+		}
+	}, 
+	{
+		"pk": 288, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "ROO", 
+			"name": "Quintana Roo"
+		}
+	}, 
+	{
+		"pk": 289, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "SIN", 
+			"name": "Sinaloa"
+		}
+	}, 
+	{
+		"pk": 290, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "SLP", 
+			"name": "San Luis Potos\u00ed"
+		}
+	}, 
+	{
+		"pk": 291, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "SON", 
+			"name": "Sonora"
+		}
+	}, 
+	{
+		"pk": 292, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "TAB", 
+			"name": "Tabasco"
+		}
+	}, 
+	{
+		"pk": 293, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "TAM", 
+			"name": "Tamaulipas"
+		}
+	}, 
+	{
+		"pk": 294, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "TLA", 
+			"name": "Tlaxcala"
+		}
+	}, 
+	{
+		"pk": 295, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "VER", 
+			"name": "Veracruz"
+		}
+	}, 
+	{
+		"pk": 296, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "YUC", 
+			"name": "Yucat\u00e1n"
+		}
+	}, 
+	{
+		"pk": 297, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 484, 
+			"abbr": "ZAC", 
+			"name": "Zacatecas"
+		}
+	}, 
+	{
+		"pk": 298, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "01", 
+			"name": "Arava"
+		}
+	}, 
+	{
+		"pk": 299, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "02", 
+			"name": "Albacete"
+		}
+	}, 
+	{
+		"pk": 300, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "03", 
+			"name": "Alacant"
+		}
+	}, 
+	{
+		"pk": 301, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "04", 
+			"name": "Almeria"
+		}
+	}, 
+	{
+		"pk": 302, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "05", 
+			"name": "Avila"
+		}
+	}, 
+	{
+		"pk": 303, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "06", 
+			"name": "Badajoz"
+		}
+	}, 
+	{
+		"pk": 304, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "07", 
+			"name": "Illes Balears"
+		}
+	}, 
+	{
+		"pk": 305, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "08", 
+			"name": "Barcelona"
+		}
+	}, 
+	{
+		"pk": 306, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "09", 
+			"name": "Burgos"
+		}
+	}, 
+	{
+		"pk": 307, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "10", 
+			"name": "Caceres"
+		}
+	}, 
+	{
+		"pk": 308, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "11", 
+			"name": "Cadiz"
+		}
+	}, 
+	{
+		"pk": 309, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "12", 
+			"name": "Castello"
+		}
+	}, 
+	{
+		"pk": 310, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "13", 
+			"name": "Ciudad Real"
+		}
+	}, 
+	{
+		"pk": 311, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "14", 
+			"name": "Cordoba"
+		}
+	}, 
+	{
+		"pk": 312, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "15", 
+			"name": "A Coruna"
+		}
+	}, 
+	{
+		"pk": 313, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "16", 
+			"name": "Cuenca"
+		}
+	}, 
+	{
+		"pk": 314, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "17", 
+			"name": "Girona"
+		}
+	}, 
+	{
+		"pk": 315, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "18", 
+			"name": "Granada"
+		}
+	}, 
+	{
+		"pk": 316, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "19", 
+			"name": "Guadalajara"
+		}
+	}, 
+	{
+		"pk": 317, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "20", 
+			"name": "Guipuzkoa"
+		}
+	}, 
+	{
+		"pk": 318, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "21", 
+			"name": "Huelva"
+		}
+	}, 
+	{
+		"pk": 319, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "22", 
+			"name": "Huesca"
+		}
+	}, 
+	{
+		"pk": 320, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "23", 
+			"name": "Jaen"
+		}
+	}, 
+	{
+		"pk": 321, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "24", 
+			"name": "Leon"
+		}
+	}, 
+	{
+		"pk": 322, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "25", 
+			"name": "Lleida"
+		}
+	}, 
+	{
+		"pk": 323, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "26", 
+			"name": "La Rioja"
+		}
+	}, 
+	{
+		"pk": 324, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "27", 
+			"name": "Lugo"
+		}
+	}, 
+	{
+		"pk": 325, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "28", 
+			"name": "Madrid"
+		}
+	}, 
+	{
+		"pk": 326, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "29", 
+			"name": "Malaga"
+		}
+	}, 
+	{
+		"pk": 327, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "30", 
+			"name": "Murcia"
+		}
+	}, 
+	{
+		"pk": 328, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "31", 
+			"name": "Navarre"
+		}
+	}, 
+	{
+		"pk": 329, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "32", 
+			"name": "Ourense"
+		}
+	}, 
+	{
+		"pk": 330, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "33", 
+			"name": "Asturias"
+		}
+	}, 
+	{
+		"pk": 331, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "34", 
+			"name": "Palencia"
+		}
+	}, 
+	{
+		"pk": 332, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "35", 
+			"name": "Las Palmas"
+		}
+	}, 
+	{
+		"pk": 333, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "36", 
+			"name": "Pontevedra"
+		}
+	}, 
+	{
+		"pk": 334, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "37", 
+			"name": "Salamanca"
+		}
+	}, 
+	{
+		"pk": 335, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "38", 
+			"name": "Santa Cruz de Tenerife"
+		}
+	}, 
+	{
+		"pk": 336, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "39", 
+			"name": "Cantabria"
+		}
+	}, 
+	{
+		"pk": 337, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "40", 
+			"name": "Segovia"
+		}
+	}, 
+	{
+		"pk": 338, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "41", 
+			"name": "Seville"
+		}
+	}, 
+	{
+		"pk": 339, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "42", 
+			"name": "Soria"
+		}
+	}, 
+	{
+		"pk": 340, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "43", 
+			"name": "Tarragona"
+		}
+	}, 
+	{
+		"pk": 341, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "44", 
+			"name": "Teruel"
+		}
+	}, 
+	{
+		"pk": 342, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "45", 
+			"name": "Toledo"
+		}
+	}, 
+	{
+		"pk": 343, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "46", 
+			"name": "Valencia"
+		}
+	}, 
+	{
+		"pk": 344, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "47", 
+			"name": "Valladolid"
+		}
+	}, 
+	{
+		"pk": 345, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "48", 
+			"name": "Bizkaia"
+		}
+	}, 
+	{
+		"pk": 346, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "49", 
+			"name": "Zamora"
+		}
+	}, 
+	{
+		"pk": 347, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "50", 
+			"name": "Zaragoza"
+		}
+	}, 
+	{
+		"pk": 348, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "51", 
+			"name": "Ceuta"
+		}
+	}, 
+	{
+		"pk": 349, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 724, 
+			"abbr": "52", 
+			"name": "Melilla"
+		}
+	}, 
+	{
+		"pk": 350, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "AG", 
+			"name": "Aargau"
+		}
+	}, 
+	{
+		"pk": 351, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "AI", 
+			"name": "Appenzell Innerrhoden"
+		}
+	}, 
+	{
+		"pk": 352, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "AR", 
+			"name": "Appenzell Ausserrhoden"
+		}
+	}, 
+	{
+		"pk": 353, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "BS", 
+			"name": "Basel-Stadt"
+		}
+	}, 
+	{
+		"pk": 354, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "BL", 
+			"name": "Basel-Land"
+		}
+	}, 
+	{
+		"pk": 355, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "BE", 
+			"name": "Berne"
+		}
+	}, 
+	{
+		"pk": 356, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "FR", 
+			"name": "Fribourg"
+		}
+	}, 
+	{
+		"pk": 357, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "GE", 
+			"name": "Geneva"
+		}
+	}, 
+	{
+		"pk": 358, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "GL", 
+			"name": "Glarus"
+		}
+	}, 
+	{
+		"pk": 359, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "GR", 
+			"name": "Graubuenden"
+		}
+	}, 
+	{
+		"pk": 360, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "JU", 
+			"name": "Jura"
+		}
+	}, 
+	{
+		"pk": 361, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "LU", 
+			"name": "Lucerne"
+		}
+	}, 
+	{
+		"pk": 362, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "NE", 
+			"name": "Neuchatel"
+		}
+	}, 
+	{
+		"pk": 363, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "NW", 
+			"name": "Nidwalden"
+		}
+	}, 
+	{
+		"pk": 364, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "OW", 
+			"name": "Obwalden"
+		}
+	}, 
+	{
+		"pk": 365, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "SH", 
+			"name": "Schaffhausen"
+		}
+	}, 
+	{
+		"pk": 366, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "SZ", 
+			"name": "Schwyz"
+		}
+	}, 
+	{
+		"pk": 367, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "SO", 
+			"name": "Solothurn"
+		}
+	}, 
+	{
+		"pk": 368, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "SG", 
+			"name": "St. Gallen"
+		}
+	}, 
+	{
+		"pk": 369, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "TG", 
+			"name": "Thurgau"
+		}
+	}, 
+	{
+		"pk": 370, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "TI", 
+			"name": "Ticino"
+		}
+	}, 
+	{
+		"pk": 371, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "UR", 
+			"name": "Uri"
+		}
+	}, 
+	{
+		"pk": 372, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "VS", 
+			"name": "Valais"
+		}
+	}, 
+	{
+		"pk": 373, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "VD", 
+			"name": "Vaud"
+		}
+	}, 
+	{
+		"pk": 374, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "ZG", 
+			"name": "Zug"
+		}
+	}, 
+	{
+		"pk": 375, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 756, 
+			"abbr": "ZH", 
+			"name": "Zurich"
+		}
+	}, 
+	{
+		"pk": 376, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "01", 
+			"name": "Adana"
+		}
+	}, 
+	{
+		"pk": 377, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "02", 
+			"name": "Ad\u0131yaman"
+		}
+	}, 
+	{
+		"pk": 378, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "03", 
+			"name": "Afyonkarahisar"
+		}
+	}, 
+	{
+		"pk": 379, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "04", 
+			"name": "A\u011fr\u0131"
+		}
+	}, 
+	{
+		"pk": 380, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "68", 
+			"name": "Aksaray"
+		}
+	}, 
+	{
+		"pk": 381, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "05", 
+			"name": "Amasya"
+		}
+	}, 
+	{
+		"pk": 382, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "06", 
+			"name": "Ankara"
+		}
+	}, 
+	{
+		"pk": 383, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "07", 
+			"name": "Antalya"
+		}
+	}, 
+	{
+		"pk": 384, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "75", 
+			"name": "Ardahan"
+		}
+	}, 
+	{
+		"pk": 385, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "08", 
+			"name": "Artvin"
+		}
+	}, 
+	{
+		"pk": 386, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "09", 
+			"name": "Ayd\u0131n"
+		}
+	}, 
+	{
+		"pk": 387, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "10", 
+			"name": "Bal\u0131kesir"
+		}
+	}, 
+	{
+		"pk": 388, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "74", 
+			"name": "Bart\u0131n"
+		}
+	}, 
+	{
+		"pk": 389, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "72", 
+			"name": "Batman"
+		}
+	}, 
+	{
+		"pk": 390, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "69", 
+			"name": "Bayburt"
+		}
+	}, 
+	{
+		"pk": 391, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "11", 
+			"name": "Bilecik"
+		}
+	}, 
+	{
+		"pk": 392, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "12", 
+			"name": "Bing\u00f6l"
+		}
+	}, 
+	{
+		"pk": 393, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "13", 
+			"name": "Bitlis"
+		}
+	}, 
+	{
+		"pk": 394, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "14", 
+			"name": "Bolu"
+		}
+	}, 
+	{
+		"pk": 395, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "15", 
+			"name": "Burdur"
+		}
+	}, 
+	{
+		"pk": 396, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "16", 
+			"name": "Bursa"
+		}
+	}, 
+	{
+		"pk": 397, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "17", 
+			"name": "\u00c7anakkale"
+		}
+	}, 
+	{
+		"pk": 398, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "18", 
+			"name": "\u00c7ank\u0131r\u0131"
+		}
+	}, 
+	{
+		"pk": 399, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "19", 
+			"name": "\u00c7orum"
+		}
+	}, 
+	{
+		"pk": 400, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "20", 
+			"name": "Denizli"
+		}
+	}, 
+	{
+		"pk": 401, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "21", 
+			"name": "Diyarbak\u0131r"
+		}
+	}, 
+	{
+		"pk": 402, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "81", 
+			"name": "D\u00fczce"
+		}
+	}, 
+	{
+		"pk": 403, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "22", 
+			"name": "Edirne"
+		}
+	}, 
+	{
+		"pk": 404, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "23", 
+			"name": "Elaz\u0131\u011f"
+		}
+	}, 
+	{
+		"pk": 405, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "24", 
+			"name": "Erzincan"
+		}
+	}, 
+	{
+		"pk": 406, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "25", 
+			"name": "Erzurum"
+		}
+	}, 
+	{
+		"pk": 407, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "26", 
+			"name": "Eski\u015fehir"
+		}
+	}, 
+	{
+		"pk": 408, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "27", 
+			"name": "Gaziantep"
+		}
+	}, 
+	{
+		"pk": 409, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "28", 
+			"name": "Giresun"
+		}
+	}, 
+	{
+		"pk": 410, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "29", 
+			"name": "G\u00fcm\u00fc\u015fhane"
+		}
+	}, 
+	{
+		"pk": 411, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "30", 
+			"name": "Hakkari"
+		}
+	}, 
+	{
+		"pk": 412, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "31", 
+			"name": "Hatay"
+		}
+	}, 
+	{
+		"pk": 413, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "76", 
+			"name": "I\u011fd\u0131r"
+		}
+	}, 
+	{
+		"pk": 414, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "32", 
+			"name": "Isparta"
+		}
+	}, 
+	{
+		"pk": 415, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "33", 
+			"name": "Mersin"
+		}
+	}, 
+	{
+		"pk": 416, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "34", 
+			"name": "\u0130stanbul"
+		}
+	}, 
+	{
+		"pk": 417, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "35", 
+			"name": "\u0130zmir"
+		}
+	}, 
+	{
+		"pk": 418, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "78", 
+			"name": "Karab\u00fck"
+		}
+	}, 
+	{
+		"pk": 419, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "36", 
+			"name": "Kars"
+		}
+	}, 
+	{
+		"pk": 420, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "37", 
+			"name": "Kastamonu"
+		}
+	}, 
+	{
+		"pk": 421, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "38", 
+			"name": "Kayseri"
+		}
+	}, 
+	{
+		"pk": 422, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "39", 
+			"name": "K\u0131rklareli"
+		}
+	}, 
+	{
+		"pk": 423, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "40", 
+			"name": "K\u0131r\u015fehir"
+		}
+	}, 
+	{
+		"pk": 424, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "41", 
+			"name": "Kocaeli"
+		}
+	}, 
+	{
+		"pk": 425, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "42", 
+			"name": "Konya"
+		}
+	}, 
+	{
+		"pk": 426, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "43", 
+			"name": "K\u00fctahya"
+		}
+	}, 
+	{
+		"pk": 427, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "44", 
+			"name": "Malatya"
+		}
+	}, 
+	{
+		"pk": 428, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "45", 
+			"name": "Manisa"
+		}
+	}, 
+	{
+		"pk": 429, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "46", 
+			"name": "Kahramanmara\u015f"
+		}
+	}, 
+	{
+		"pk": 430, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "70", 
+			"name": "Karaman"
+		}
+	}, 
+	{
+		"pk": 431, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "71", 
+			"name": "K\u0131r\u0131kkale"
+		}
+	}, 
+	{
+		"pk": 432, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "79", 
+			"name": "Kilis"
+		}
+	}, 
+	{
+		"pk": 433, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "47", 
+			"name": "Mardin"
+		}
+	}, 
+	{
+		"pk": 434, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "48", 
+			"name": "Mu\u011fla"
+		}
+	}, 
+	{
+		"pk": 435, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "49", 
+			"name": "Mu\u015f"
+		}
+	}, 
+	{
+		"pk": 436, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "50", 
+			"name": "Nev\u015fehir"
+		}
+	}, 
+	{
+		"pk": 437, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "51", 
+			"name": "Ni\u011fde"
+		}
+	}, 
+	{
+		"pk": 438, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "52", 
+			"name": "Ordu"
+		}
+	}, 
+	{
+		"pk": 439, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "80", 
+			"name": "Osmaniye"
+		}
+	}, 
+	{
+		"pk": 440, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "53", 
+			"name": "Rize"
+		}
+	}, 
+	{
+		"pk": 441, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "54", 
+			"name": "Sakarya"
+		}
+	}, 
+	{
+		"pk": 442, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "55", 
+			"name": "Samsun"
+		}
+	}, 
+	{
+		"pk": 443, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "56", 
+			"name": "Siirt"
+		}
+	}, 
+	{
+		"pk": 444, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "57", 
+			"name": "Sinop"
+		}
+	}, 
+	{
+		"pk": 445, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "58", 
+			"name": "Sivas"
+		}
+	}, 
+	{
+		"pk": 446, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "73", 
+			"name": "\u015e\u0131rnak"
+		}
+	}, 
+	{
+		"pk": 447, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "59", 
+			"name": "Tekirda\u011f"
+		}
+	}, 
+	{
+		"pk": 448, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "60", 
+			"name": "Tokat"
+		}
+	}, 
+	{
+		"pk": 449, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "61", 
+			"name": "Trabzon"
+		}
+	}, 
+	{
+		"pk": 450, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "62", 
+			"name": "Tunceli"
+		}
+	}, 
+	{
+		"pk": 451, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "63", 
+			"name": "\u015eanl\u0131urfa"
+		}
+	}, 
+	{
+		"pk": 452, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "64", 
+			"name": "U\u015fak"
+		}
+	}, 
+	{
+		"pk": 453, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "65", 
+			"name": "Van"
+		}
+	}, 
+	{
+		"pk": 454, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "77", 
+			"name": "Yalova"
+		}
+	}, 
+	{
+		"pk": 455, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "66", 
+			"name": "Yozgat"
+		}
+	}, 
+	{
+		"pk": 456, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 792, 
+			"abbr": "67", 
+			"name": "Zonguldak"
+		}
+	}, 
+	{
+		"pk": 457, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AL", 
+			"name": "Alabama"
+		}
+	}, 
+	{
+		"pk": 458, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AK", 
+			"name": "Alaska"
+		}
+	}, 
+	{
+		"pk": 459, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AS", 
+			"name": "American Samoa"
+		}
+	}, 
+	{
+		"pk": 460, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AZ", 
+			"name": "Arizona"
+		}
+	}, 
+	{
+		"pk": 461, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AR", 
+			"name": "Arkansas"
+		}
+	}, 
+	{
+		"pk": 462, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AA", 
+			"name": "Armed Forces Americas"
+		}
+	}, 
+	{
+		"pk": 463, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AE", 
+			"name": "Armed Forces Europe"
+		}
+	}, 
+	{
+		"pk": 464, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "AP", 
+			"name": "Armed Forces Pacific"
+		}
+	}, 
+	{
+		"pk": 465, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "CA", 
+			"name": "California"
+		}
+	}, 
+	{
+		"pk": 466, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "CO", 
+			"name": "Colorado"
+		}
+	}, 
+	{
+		"pk": 467, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "CT", 
+			"name": "Connecticut"
+		}
+	}, 
+	{
+		"pk": 468, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "DE", 
+			"name": "Delaware"
+		}
+	}, 
+	{
+		"pk": 469, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "DC", 
+			"name": "District of Columbia"
+		}
+	}, 
+	{
+		"pk": 470, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "FL", 
+			"name": "Florida"
+		}
+	}, 
+	{
+		"pk": 471, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "GA", 
+			"name": "Georgia"
+		}
+	}, 
+	{
+		"pk": 472, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "GU", 
+			"name": "Guam"
+		}
+	}, 
+	{
+		"pk": 473, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "HI", 
+			"name": "Hawaii"
+		}
+	}, 
+	{
+		"pk": 474, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "ID", 
+			"name": "Idaho"
+		}
+	}, 
+	{
+		"pk": 475, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "IL", 
+			"name": "Illinois"
+		}
+	}, 
+	{
+		"pk": 476, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "IN", 
+			"name": "Indiana"
+		}
+	}, 
+	{
+		"pk": 477, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "IA", 
+			"name": "Iowa"
+		}
+	}, 
+	{
+		"pk": 478, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "KS", 
+			"name": "Kansas"
+		}
+	}, 
+	{
+		"pk": 479, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "KY", 
+			"name": "Kentucky"
+		}
+	}, 
+	{
+		"pk": 480, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "LA", 
+			"name": "Louisiana"
+		}
+	}, 
+	{
+		"pk": 481, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "ME", 
+			"name": "Maine"
+		}
+	}, 
+	{
+		"pk": 482, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MD", 
+			"name": "Maryland"
+		}
+	}, 
+	{
+		"pk": 483, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MA", 
+			"name": "Massachusetts"
+		}
+	}, 
+	{
+		"pk": 484, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MI", 
+			"name": "Michigan"
+		}
+	}, 
+	{
+		"pk": 485, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MN", 
+			"name": "Minnesota"
+		}
+	}, 
+	{
+		"pk": 486, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MS", 
+			"name": "Mississippi"
+		}
+	}, 
+	{
+		"pk": 487, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MO", 
+			"name": "Missouri"
+		}
+	}, 
+	{
+		"pk": 488, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MT", 
+			"name": "Montana"
+		}
+	}, 
+	{
+		"pk": 489, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NE", 
+			"name": "Nebraska"
+		}
+	}, 
+	{
+		"pk": 490, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NV", 
+			"name": "Nevada"
+		}
+	}, 
+	{
+		"pk": 491, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NH", 
+			"name": "New Hampshire"
+		}
+	}, 
+	{
+		"pk": 492, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NJ", 
+			"name": "New Jersey"
+		}
+	}, 
+	{
+		"pk": 493, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NM", 
+			"name": "New Mexico"
+		}
+	}, 
+	{
+		"pk": 494, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NY", 
+			"name": "New York"
+		}
+	}, 
+	{
+		"pk": 495, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "NC", 
+			"name": "North Carolina"
+		}
+	}, 
+	{
+		"pk": 496, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "ND", 
+			"name": "North Dakota"
+		}
+	}, 
+	{
+		"pk": 497, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "MP", 
+			"name": "Northern Mariana Islands"
+		}
+	}, 
+	{
+		"pk": 498, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "OH", 
+			"name": "Ohio"
+		}
+	}, 
+	{
+		"pk": 499, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "OK", 
+			"name": "Oklahoma"
+		}
+	}, 
+	{
+		"pk": 500, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "OR", 
+			"name": "Oregon"
+		}
+	}, 
+	{
+		"pk": 501, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "PA", 
+			"name": "Pennsylvania"
+		}
+	}, 
+	{
+		"pk": 502, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "PR", 
+			"name": "Puerto Rico"
+		}
+	}, 
+	{
+		"pk": 503, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "RI", 
+			"name": "Rhode Island"
+		}
+	}, 
+	{
+		"pk": 504, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "SC", 
+			"name": "South Carolina"
+		}
+	}, 
+	{
+		"pk": 505, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "SD", 
+			"name": "South Dakota"
+		}
+	}, 
+	{
+		"pk": 506, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "TN", 
+			"name": "Tennessee"
+		}
+	}, 
+	{
+		"pk": 507, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "TX", 
+			"name": "Texas"
+		}
+	}, 
+	{
+		"pk": 508, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "UT", 
+			"name": "Utah"
+		}
+	}, 
+	{
+		"pk": 509, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "VT", 
+			"name": "Vermont"
+		}
+	}, 
+	{
+		"pk": 510, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "VI", 
+			"name": "Virgin Islands"
+		}
+	}, 
+	{
+		"pk": 511, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "VA", 
+			"name": "Virginia"
+		}
+	}, 
+	{
+		"pk": 512, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "WA", 
+			"name": "Washington"
+		}
+	}, 
+	{
+		"pk": 513, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "WV", 
+			"name": "West Virginia"
+		}
+	}, 
+	{
+		"pk": 514, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "WI", 
+			"name": "Wisconsin"
+		}
+	}, 
+	{
+		"pk": 515, 
+		"model": "locality.territory", 
+		"fields": {
+			"country": 840, 
+			"abbr": "WY", 
+			"name": "Wyoming"
 		}
 	}
 ]

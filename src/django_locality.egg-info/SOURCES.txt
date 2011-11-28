@@ -1,4 +1,3 @@
-README
 setup.py
 src/django_locality.egg-info/PKG-INFO
 src/django_locality.egg-info/SOURCES.txt
@@ -7,4 +6,6 @@ src/django_locality.egg-info/requires.txt
 src/django_locality.egg-info/top_level.txt
 src/locality/__init__.py
 src/locality/models.py
+src/locality/settings.py
 src/locality/tests.py
+src/locality/urls.py
