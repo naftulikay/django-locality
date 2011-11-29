@@ -17,6 +17,8 @@ You can create your own models around countries and territories:
         country = models.ForeignKey('locality.models.Country')
 		territory = models.ForeignKey('locality.models.Territory')
 
-Eventually, this Django module will include nice little helpers like form widgets and template tags, but for now, it simply makes it easy for you to work with countries and territories.
+Eventually, this Django module will include nice little helpers like template tags, but for now, it simply makes it easy for you to work with countries and territories.
+
+There are some nice views included for getting values in serialized form, as well as some nifty form fields and widgets. Some url patterns are supplied to demonstrate serialization using the views. 
 
 It's ridiculously simple, yet somehow doesn't exist in the Django-sphere. Please report all bugs to the Git Issue-Tracker, and enjoy the library. 
