@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: django-locality
-Version: 0.1.1
+Version: 0.1.2
 Summary: Countries and territories, made usable.
 Home-page: https://github.com/rfkrocktk/django-locality
 Author: TK Kocheran
