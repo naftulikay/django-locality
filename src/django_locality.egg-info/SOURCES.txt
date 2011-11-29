@@ -1,5 +1,4 @@
 MANIFEST.in
-README
 setup.py
 src/django_locality.egg-info/PKG-INFO
 src/django_locality.egg-info/SOURCES.txt
