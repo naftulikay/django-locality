@@ -8,32 +8,17 @@ from locality.models import Country, Territory
 
 import simplejson as json
 
-def countries(request, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, Country.objects.all()), mimetype="%s; charset=utf-8" % mimetype)
+def countries(request, to = "json"):
+	return HttpResponse(serializers.serialize(to, Country.objects.all()), mimetype="application/%s; charset=utf-8" % to)
 
-def territories(request, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, Territory.objects.all()), mimetype="%s; charset=utf-8" % mimetype)
+def territories(request, to = "json"):
+	return HttpResponse(serializers.serialize(to, Territory.objects.all()), mimetype="application/%s; charset=utf-8" % to)
 
-def territories_by_country_iso2(request, iso2 = None, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, Territory.objects.by_country_iso2(iso2)), mimetype="%s; charset=utf-8" % mimetype)
+def territories_by_country(request, country = None, to = "json"):
+	return HttpResponse(serializers.serialize(to, Territory.objects.by_country(country)), mimetype="application/%s; charset=utf-8" % to)
 
-def territories_by_country_iso3(request, iso3 = None, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, Territory.objects.by_country_iso3(iso3)), mimetype="%s; charset=utf-8" % mimetype)
-
-def territories_by_country_id(request, country_id = None, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, Territory.objects.by_country_id(country_id)), mimetype="%s; charset=utf-8" % mimetype)
-
-def countries(request, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, Country.objects.all()), mimetype="%s; charset=utf-8" % mimetype)
-
-def country_by_iso2(request, iso2 = None, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, get_object_or_404(Country, iso2__iexact = iso2)), mimetype="%s; charset=utf-8" % mimetype)
-
-def country_by_iso3(request, iso3 = None, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, get_object_or_404(Country, iso3__iexact = iso3)), mimetype="%s; charset=utf-8" % mimetype)
-
-def country_by_id(request, country_id = None, to = "json", mimetype = "application/json"):
-	return HttpResponse(serializers.serialize(to, get_object_or_404(Country, pk = country_id)), mimetype="%s; charset=utf-8" % mimetype)
+def country(request, country = None, to = "json"):
+	return HttpResponse(serializers.serialize(to, [Country.objects.find(country)]), mimetype="application/%s; charset=utf-8" % to)
 
 def generate_territories(request):
 	from django.contrib.localflavor.ar import ar_provinces

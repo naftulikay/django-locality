@@ -9,6 +9,8 @@ class Country(models.Model):
 	iso3 = models.CharField('ISO 3166-1 Alpha 3 Name', max_length=3, unique=True)
 	name = models.CharField('Country Name', max_length=32, unique=True)
 	
+	objects = managers.CountryManager()
+
 	def __str__(self):
 		return self.name
 
