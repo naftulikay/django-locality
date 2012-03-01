@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name = "django-locality",
-	version = "0.2.0",
+	version = "0.2.1",
 	url = 'https://github.com/rfkrocktk/django-locality',
 	license = 'AGPL',
 	description = 'Countries and territories, made usable.',
