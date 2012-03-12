@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from setuptools import setup, find_packages
 
 setup(
@@ -10,6 +11,7 @@ setup(
 	author_email = 'rfkrocktk@gmail.com',
 	packages = find_packages('src'),
 	package_dir = {'': 'src'},
+   include_package_data = True,
 	package_data = {
 		'': ['locality/fixtures/*.json']
 	},
