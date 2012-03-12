@@ -7,5 +7,7 @@ parts/
 
 .installed.cfg
 
+src/*.egg-info
+
 *.pyc
 *.pyo
