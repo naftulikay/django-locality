@@ -22,3 +22,20 @@ Eventually, this Django module will include nice little helpers like template ta
 There are some nice views included for getting values in serialized form, as well as some nifty form fields and widgets. Some url patterns are supplied to demonstrate serialization using the views. 
 
 It's ridiculously simple, yet somehow doesn't exist in the Django-sphere. Please report all bugs to the Git Issue-Tracker, and enjoy the library :)
+
+MySQL Issues
+------------
+
+You will have issues loading fixture data with MySQL if your database's
+default character set is not utf8.  You can check your tables' charsets
+by running:
+
+	SHOW FULL COLUMNS tablename;
+
+You can alter the charsets via:
+
+	ALTER TABLE tablename CONVERT TO CHARACTER SET utf8;
+
+To do this for `django-locality`, you can first sync the database,
+alter the character set for the resulting tables, and then load the
+fixtures.
