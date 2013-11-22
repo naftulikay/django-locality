@@ -6,10 +6,10 @@ ADMINS = ()
 MANAGERS = ADMINS
 
 DATABASES = {
-	'default': {
-		'ENGINE': 'django.db.backends.sqlite3',
-		'NAME': '/tmp/locality.db'
-	}
+'default': {
+'ENGINE': 'django.db.backends.sqlite3',
+'NAME': '/tmp/locality.db'
+}
 }
 
 TIME_ZONE = "UTC"
@@ -63,7 +63,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
-	'locality',
+    'locality',
 )
 
 LOGGING = {
