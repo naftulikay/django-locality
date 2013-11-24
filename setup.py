@@ -7,7 +7,7 @@ setup(
     url='https://github.com/rfkrocktk/django-locality',
     license='AGPL',
     description='Countries and territories, made usable.',
-    author='TK Kocheran',
+    author='Naftuli Tzvi Kay',
     author_email='rfkrocktk@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
