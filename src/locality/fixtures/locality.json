@@ -1,6 +1,6 @@
 [
 	{	"model": "locality.country",
-		"pk": 4,
+		"pk": 906,
 		"fields": {
 			"iso2": "AF",
 			"iso3": "AFG",
