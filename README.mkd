@@ -1,41 +1,97 @@
-#django-locality#
+# django-locality
 
-`django-locality` is a pretty simple library geared at making things easy when it comes to countries and territories. It comes with a bunch of nice initial data, so you'll be able to immediately get up to speed tying objects to countries and territories.
+`django-locality` is a collection of helpers for handling countries and
+territories in Django. Currently, it includes:
 
-For example, you can list all countries like so:
+  * `locality.json`, a fixture with the world's countries and territories (if
+    you notice any missing, [open an
+    issue](https://github.com/rfkrocktk/django-locality/issues) or [submit a pull
+    request](https://github.com/rfkrocktk/django-locality/compare/))
+  * views for getting serialized values (e.g. for use in a form)
+  * nifty form fields and widgets
 
-    locality.models.Country.objects.all()
+## Installation
 
-You can also find all territories by country like so:
+**The latest version of `django-locality` is currently not available on PyPi**
 
-	for country in locality.models.Country.objects.all():
-		country.territories
+Install from GitHub with pip:
+
+    pip install -e https://github.com/rfkrocktk/django-locality.git#egg=django-locality==0.2.2
+
+Then add `locality` to `INSTALLED_APPS` in your Django settings. To load the
+included data, run:
+
+    python manage.py loaddata locality
+
+(or whichever equivalent method you use to run "manage.py" commands) 
+
+The fixture is not installed as `initial_data.json` to give you the option of
+using your own, and to prevent changes being overwritten whenever you run
+syncdb.
+
+## Usage
+
+List all countries:
+
+    >>> from locality.models import Country
+    >>> print Country.objects.all()
+    [<Country: Andorra>, <Country: United Arab Emirates>, 
+    <Country: Antigua and Barbuda>, ...]
+
+or list territories by country:
+
+    >>> from locality.models import Country
+    >>> for country in locality.models.Country.objects.all():
+    >>>     print country.territories.all()
+    ...
+    [<Territory: Salta, Argentina>, <Territory: Buenos Aires, Argentina>,
+    <Territory: Ciudad Autónoma de Buen os Aires, Argentina>, ...]
 
 You can create your own models around countries and territories:
 
     class Address(models.Model):
         country = models.ForeignKey('locality.models.Country')
-		territory = models.ForeignKey('locality.models.Territory')
+        territory = models.ForeignKey('locality.models.Territory')
 
-Eventually, this Django module will include nice little helpers like template tags, but for now, it simply makes it easy for you to work with countries and territories.
+## Bugs / TODO
 
-There are some nice views included for getting values in serialized form, as well as some nifty form fields and widgets. Some url patterns are supplied to demonstrate serialization using the views. 
+Please report all bugs to the [GitHub issue
+tracker](https://github.com/rfkrocktk/django-locality/issues), and enjoy the
+library :-)
 
-It's ridiculously simple, yet somehow doesn't exist in the Django-sphere. Please report all bugs to the Git Issue-Tracker, and enjoy the library :)
+Wishlist:
 
-MySQL Issues
-------------
+  * template tags
+  * translated country names (see 
+    [issue #1](https://github.com/rfkrocktk/django-locality/issues/1))
+
+### MySQL issues
 
 You will have issues loading fixture data with MySQL if your database's
 default character set is not utf8.  You can check your tables' charsets
 by running:
 
-	SHOW FULL COLUMNS tablename;
+    SHOW FULL COLUMNS tablename;
 
 You can alter the charsets via:
 
-	ALTER TABLE tablename CONVERT TO CHARACTER SET utf8;
+    ALTER TABLE tablename CONVERT TO CHARACTER SET utf8;
 
 To do this for `django-locality`, you can first sync the database,
 alter the character set for the resulting tables, and then load the
 fixtures.
+
+### Upgrading from previous versions
+
+`django-locality` used to create a `locality_country` table with a too-small
+`name` field, and does not (yet) include database migrations. If you were
+previously using an earlier version and encounter errors when trying to load
+`locality.json`, try deleting and recreating the relevant tables:
+
+    $ python manage.py dbshell
+    MariaDB [awesomeproj]> DROP TABLE locality_country;
+    MariaDB [awesomeproj]> DROP TABLE locality_territory;
+    MariaDB [awesomeproj]> exit
+    $ python manage.py syncdb
+
+and then attempt to load the fixture again.
