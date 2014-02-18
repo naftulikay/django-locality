@@ -89,9 +89,14 @@ previously using an earlier version and encounter errors when trying to load
 `locality.json`, try deleting and recreating the relevant tables:
 
     $ python manage.py dbshell
-    MariaDB [awesomeproj]> DROP TABLE locality_country;
     MariaDB [awesomeproj]> DROP TABLE locality_territory;
+    Query OK, 0 rows affected (0.01 sec)
+
+    MariaDB [awesomeproj]> DROP TABLE locality_country;
+    Query OK, 0 rows affected (0.01 sec)
+
     MariaDB [awesomeproj]> exit
+    Bye
     $ python manage.py syncdb
 
 and then attempt to load the fixture again.
