@@ -16,7 +16,7 @@ territories in Django. Currently, it includes:
 
 Install from GitHub with pip:
 
-    pip install -e https://github.com/rfkrocktk/django-locality.git#egg=django-locality==0.2.2
+    pip install -e git+https://github.com/rfkrocktk/django-locality.git#egg=django-locality==0.2.2
 
 Then add `locality` to `INSTALLED_APPS` in your Django settings. To load the
 included data, run:
