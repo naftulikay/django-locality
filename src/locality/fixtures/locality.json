@@ -260,7 +260,7 @@
 		"fields": {
 			"iso2": "IO",
 			"iso3": "IOT",
-			"name": "British Indian OceanTerritory"
+			"name": "British Indian Ocean Territory"
 		}
 	},
 	{	"model": "locality.country",
@@ -1516,7 +1516,7 @@
 		"fields": {
 			"iso2": "VC",
 			"iso3": "VCT",
-			"name": "Saint Vincent and theGrenadines"
+			"name": "Saint Vincent and the Grenadines"
 		}
 	},
 	{	"model": "locality.country",
@@ -1644,7 +1644,7 @@
 		"fields": {
 			"iso2": "GS",
 			"iso3": "SGS",
-			"name": "South Georgia and SouthSandwich Islands"
+			"name": "South Georgia and South Sandwich Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1692,7 +1692,7 @@
 		"fields": {
 			"iso2": "SJ",
 			"iso3": "SJM",
-			"name": "Svalbard and Jan MayenIslands"
+			"name": "Svalbard and Jan Mayen Islands"
 		}
 	},
 	{	"model": "locality.country",
@@ -1876,7 +1876,7 @@
 		"fields": {
 			"iso2": "UM",
 			"iso3": "UMI",
-			"name": "United States MinorOutlying Islands"
+			"name": "United States Minor Outlying Islands"
 		}
 	},
 	{	"model": "locality.country",
