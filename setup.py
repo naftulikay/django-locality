@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="django-locality",
-    version="0.2.2",
+    version="0.2.3",
     url='https://github.com/rfkrocktk/django-locality',
     license='AGPL',
     description='Countries and territories, made usable.',
@@ -16,7 +16,7 @@ setup(
     '': ['locality/fixtures/*.json']
     },
     install_requires=[
-        'Django>=1.3.0',
+        'django',
         'django-localflavor',
         'setuptools'
     ],
