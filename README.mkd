@@ -5,8 +5,8 @@ territories in Django. Currently, it includes:
 
   * `locality.json`, a fixture with the world's countries and territories (if
     you notice any missing, [open an
-    issue](https://github.com/rfkrocktk/django-locality/issues) or [submit a pull
-    request](https://github.com/rfkrocktk/django-locality/compare/))
+    issue](https://github.com/naftulikay/django-locality/issues) or [submit a pull
+    request](https://github.com/naftulikay/django-locality/compare/))
   * views for getting serialized values (e.g. for use in a form)
   * nifty form fields and widgets
 
@@ -16,14 +16,14 @@ territories in Django. Currently, it includes:
 
 Install from GitHub with pip:
 
-    pip install -e git+https://github.com/rfkrocktk/django-locality.git#egg=django-locality==0.2.2
+    pip install -e git+https://github.com/naftulikay/django-locality.git#egg=django-locality==0.2.4
 
 Then add `locality` to `INSTALLED_APPS` in your Django settings. To load the
 included data, run:
 
     python manage.py loaddata locality
 
-(or whichever equivalent method you use to run "manage.py" commands) 
+(or whichever equivalent method you use to run "manage.py" commands)
 
 The fixture is not installed as `initial_data.json` to give you the option of
 using your own, and to prevent changes being overwritten whenever you run
@@ -35,7 +35,7 @@ List all countries:
 
     >>> from locality.models import Country
     >>> print Country.objects.all()
-    [<Country: Andorra>, <Country: United Arab Emirates>, 
+    [<Country: Andorra>, <Country: United Arab Emirates>,
     <Country: Antigua and Barbuda>, ...]
 
 or list territories by country:
@@ -56,14 +56,14 @@ You can create your own models around countries and territories:
 ## Bugs / TODO
 
 Please report all bugs to the [GitHub issue
-tracker](https://github.com/rfkrocktk/django-locality/issues), and enjoy the
+tracker](https://github.com/naftulikay/django-locality/issues), and enjoy the
 library :-)
 
 Wishlist:
 
   * template tags
-  * translated country names (see 
-    [issue #1](https://github.com/rfkrocktk/django-locality/issues/1))
+  * translated country names (see
+    [issue #1](https://github.com/naftulikay/django-locality/issues/1))
 
 ### MySQL issues
 

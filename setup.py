@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 
 setup(
     name="django-locality",
-    version="0.2.3",
-    url='https://github.com/rfkrocktk/django-locality',
-    license='AGPL',
+    version="0.2.4",
+    url='https://github.com/naftulikay/django-locality',
+    license='MIT',
     description='Countries and territories, made usable.',
-    author='Naftuli Tzvi Kay',
-    author_email='rfkrocktk@gmail.com',
+    author='Naftuli Kay',
+    author_email='me@naftuli.wtf',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     include_package_data=True,
