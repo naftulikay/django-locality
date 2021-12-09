@@ -4,6 +4,7 @@ develop-eggs/
 dist/
 eggs/
 parts/
+.idea/
 
 .installed.cfg
 
