@@ -1,6 +1,6 @@
 from django.core import serializers
 from django.http import HttpResponse
-from django.utils.encoding import force_unicode
+from django.utils.encoding import force_text
 from django.utils.functional import Promise
 from django import VERSION
 
@@ -98,7 +98,7 @@ def create_territories(country_abbr, territories, counter):
 class LazyEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, Promise):
-            return force_unicode(obj)
+            return force_text(obj)
         return super(LazyEncoder, self).default(obj)
 
 
