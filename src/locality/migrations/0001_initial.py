@@ -31,7 +31,7 @@ class Migration(migrations.Migration):
                 ('id', models.AutoField(auto_created=True, serialize=False, verbose_name='ID', primary_key=True)),
                 ('abbr', models.CharField(max_length=10, verbose_name='Territory Abbreviation')),
                 ('name', models.CharField(max_length=128, verbose_name='Territory Name')),
-                ('country', models.ForeignKey(related_name='territories', to='locality.Country')),
+                ('country', models.ForeignKey(related_name='territories', to='locality.Country', on_delete=models.deletion.CASCADE)),
             ],
             options={
                 'verbose_name_plural': 'Territories',
